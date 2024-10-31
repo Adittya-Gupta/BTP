@@ -20,7 +20,7 @@ from transformers import (
     BertTokenizer,
     set_seed
 )
-from src.utils import (
+from utils import (
     convert_examples_to_features,
     read_examples_from_file,
     BertForTokenClassification,
