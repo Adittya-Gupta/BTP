@@ -1,0 +1,58 @@
+04	O
+–	O
+david	person-athlete
+gilliland	person-athlete
+,	O
+no	O
+.	O
+
+the	O
+magazines	O
+merged	O
+under	O
+the	O
+name	O
+``	O
+an	art-writtenart
+phoblacht/republican	art-writtenart
+news	art-writtenart
+``	O
+in	O
+1979	O
+.	O
+
+2	O
+)	O
+``	O
+tiktaalik	other-livingthing
+``	O
+represents	O
+a	O
+case	O
+of	O
+parallel	O
+evolution	O
+.	O
+
+odets	person-actor
+pursued	O
+acting	O
+with	O
+great	O
+passion	O
+and	O
+ingenuity	O
+.	O
+
+the	O
+party	O
+also	O
+contested	O
+the	O
+u.s.	event-election
+presidential	event-election
+election	event-election
+,	O
+1976	O
+.	O
+

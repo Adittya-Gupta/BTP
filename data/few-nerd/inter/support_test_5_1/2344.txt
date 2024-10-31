@@ -1,0 +1,67 @@
+she	O
+served	O
+in	O
+new	location-other
+york	location-other
+harbor	location-other
+.	O
+
+terra	person-actor
+was	O
+officially	O
+announced	O
+as	O
+a	O
+part	O
+of	O
+the	O
+cast	O
+in	O
+march	O
+2002	O
+.	O
+
+her	O
+sister	O
+won	O
+the	O
+1979	O
+australian	event-sportsevent
+open	event-sportsevent
+women	O
+'s	O
+singles	O
+title	O
+.	O
+
+operational	O
+squadrons	O
+of	O
+the	O
+1st	O
+fiw	organization-government/governmentagency
+were	O
+:	O
+
+he	O
+was	O
+shot	O
+in	O
+the	O
+back	O
+outside	O
+his	O
+house	O
+,	O
+and	O
+he	O
+died	O
+at	O
+the	O
+jackson	building-hospital
+memorial	building-hospital
+hospital	building-hospital
+shortly	O
+after	O
+.	O
+

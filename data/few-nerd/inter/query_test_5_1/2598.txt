@@ -1,0 +1,67 @@
+the	O
+hospital	O
+was	O
+closed	O
+in	O
+2005	O
+when	O
+its	O
+staff	O
+and	O
+services	O
+were	O
+transferred	O
+to	O
+various	O
+sites	O
+within	O
+uclh	building-hospital
+.	O
+
+for	O
+season	O
+14	O
+,	O
+his	O
+partner	O
+was	O
+tennis	O
+champion	O
+martina	person-athlete
+navratilova	person-athlete
+.	O
+
+eighty	O
+m114s	product-weapon
+were	O
+used	O
+to	O
+equip	O
+four	O
+reconnaissance	O
+squadrons	O
+.	O
+
+mcgovern	O
+earned	O
+his	O
+ed.d	other-educationaldegree
+.	O
+
+he	O
+began	O
+his	O
+show	O
+business	O
+career	O
+as	O
+an	O
+usher	O
+in	O
+a	O
+cleveland	building-theater
+theater	building-theater
+in	O
+1933	O
+.	O
+

@@ -1,0 +1,53 @@
+he	O
+threw	O
+his	O
+first	O
+touchdown	O
+in	O
+a	O
+playoff	O
+contest	O
+to	O
+justin	person-athlete
+peelle	person-athlete
+.	O
+
+(	O
+it	event-election
+'s	event-election
+time	event-election
+!	O
+)	O
+
+she	O
+was	O
+played	O
+by	O
+character	O
+actress	O
+mary	person-actor
+wickes	person-actor
+.	O
+
+he	O
+received	O
+master	other-educationaldegree
+of	other-educationaldegree
+engineering	other-educationaldegree
+(	O
+m.e	other-educationaldegree
+.	O
+)	O
+
+he	O
+was	O
+physician	O
+to	O
+royal	building-hospital
+brompton	building-hospital
+hospital	building-hospital
+for	O
+twenty	O
+years	O
+.	O
+

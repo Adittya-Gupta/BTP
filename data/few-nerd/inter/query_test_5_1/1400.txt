@@ -1,0 +1,61 @@
+mycetinis	other-livingthing
+querceus	other-livingthing
+(	O
+syn	O
+.	O
+
+the	O
+earliest	O
+dagger-axe	product-weapon
+blades	O
+were	O
+made	O
+of	O
+stone	O
+.	O
+
+nearby	O
+,	O
+there	O
+are	O
+the	O
+tarbela	location-bodiesofwater
+dam	location-bodiesofwater
+sea	O
+,	O
+desert	O
+,	O
+and	O
+many	O
+green	O
+farms	O
+.	O
+
+other	O
+theology	O
+degree	O
+titles	O
+used	O
+are	O
+master	other-educationaldegree
+of	other-educationaldegree
+theology	other-educationaldegree
+(	O
+th.m	O
+.	O
+
+children	building-hospital
+'s	building-hospital
+memorial	building-hospital
+hermann	building-hospital
+hospital	building-hospital
+also	O
+sometimes	O
+treats	O
+adults	O
+that	O
+require	O
+pediatric	O
+care	O
+.	O
+

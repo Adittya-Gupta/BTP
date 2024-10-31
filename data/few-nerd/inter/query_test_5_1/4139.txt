@@ -1,0 +1,64 @@
+he	O
+was	O
+second	O
+deemster	O
+and	O
+a	O
+member	O
+of	O
+the	O
+legislative	organization-government/governmentagency
+council	organization-government/governmentagency
+1958	O
+to	O
+1963	O
+.	O
+
+he	O
+now	O
+holds	O
+a	O
+ph.d	other-educationaldegree
+in	other-educationaldegree
+theology	other-educationaldegree
+.	O
+
+mercury-contaminated	O
+waste	O
+was	O
+also	O
+dumped	O
+directly	O
+into	O
+onondaga	location-bodiesofwater
+lake	location-bodiesofwater
+.	O
+
+lyle	O
+lovett	O
+and	O
+harry	person-actor
+dean	person-actor
+stanton	person-actor
+are	O
+also	O
+among	O
+the	O
+cast	O
+.	O
+
+he	O
+was	O
+first	O
+elected	O
+at	O
+the	O
+1922	event-election
+seanad	event-election
+election	event-election
+as	O
+an	O
+independent	O
+candidate	O
+.	O
+

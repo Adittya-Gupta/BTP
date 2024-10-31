@@ -1,0 +1,64 @@
+he	O
+stayed	O
+at	O
+wallack	building-theater
+'s	building-theater
+theatre	building-theater
+through	O
+the	O
+1860s	O
+.	O
+
+in	O
+2007	O
+,	O
+the	O
+pittsburgh	art-writtenart
+post-gazette	art-writtenart
+wrote	O
+that	O
+they	O
+are	O
+a	O
+``	O
+household	O
+word	O
+in	O
+the	O
+region	O
+.	O
+''	O
+
+21	O
+on	O
+the	O
+aria	art-music
+albums	art-music
+chart	O
+.	O
+
+)	O
+,	O
+and	O
+doctor	other-educationaldegree
+of	other-educationaldegree
+liberal	other-educationaldegree
+studies	other-educationaldegree
+(	O
+dls	other-educationaldegree
+)	O
+.	O
+
+it	O
+is	O
+bound	O
+by	O
+the	O
+``	O
+plasmodium	other-livingthing
+falciparum	other-livingthing
+``	O
+protein	O
+sequestrin	O
+.	O
+

@@ -1,0 +1,65 @@
+carfecillin	other-medical
+is	O
+a	O
+beta-lactam	other-medical
+antibiotic	other-medical
+.	O
+
+from	O
+2004–2015	O
+he	O
+was	O
+a	O
+member	O
+of	O
+youth	organization-politicalparty
+assambly	organization-politicalparty
+of	organization-politicalparty
+estonian	organization-politicalparty
+centre	organization-politicalparty
+party	organization-politicalparty
+.	O
+
+this	O
+mongoose	O
+,	O
+along	O
+with	O
+feral	O
+cats	O
+and	O
+dogs	O
+,	O
+are	O
+outpreying	O
+the	O
+amami	other-livingthing
+rabbit	other-livingthing
+.	O
+
+here	O
+he	O
+was	O
+conferred	O
+his	O
+magister	other-educationaldegree
+artium	other-educationaldegree
+degree	other-educationaldegree
+in	O
+1985	O
+.	O
+
+the	O
+new	event-election
+york	event-election
+state	event-election
+election	event-election
+,	O
+1866	O
+was	O
+held	O
+on	O
+november	O
+6	O
+.	O
+

@@ -1,0 +1,56 @@
+lefkowitz	organization-government/governmentagency
+,	organization-government/governmentagency
+j	organization-government/governmentagency
+.	O
+
+the	O
+group	O
+continued	O
+without	O
+them	O
+,	O
+releasing	O
+their	O
+final	O
+album	O
+as	O
+``	O
+dwayne	art-music
+ford	art-music
+and	art-music
+bearfoot	art-music
+``	O
+in	O
+1975	O
+.	O
+
+his	O
+older	O
+brother	O
+is	O
+actor/director	O
+emilio	person-actor
+fernández	person-actor
+.	O
+
+he	O
+was	O
+also	O
+the	O
+chair	O
+of	O
+ullevål	building-hospital
+university	building-hospital
+hospital	building-hospital
+from	O
+1996	O
+to	O
+2000	O
+.	O
+
+graduate	O
+programs	O
+include	O
+m.a	other-educationaldegree
+.	O
+

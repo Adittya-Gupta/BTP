@@ -1,0 +1,65 @@
+they	O
+also	O
+won	O
+the	O
+u-17	event-sportsevent
+dallas	event-sportsevent
+cup	event-sportsevent
+.	O
+
+both	O
+jordan	person-actor
+masterson	person-actor
+and	O
+jonathan	person-actor
+adams	person-actor
+were	O
+promoted	O
+to	O
+the	O
+main	O
+cast	O
+this	O
+season	O
+.	O
+
+he	O
+was	O
+a	O
+member	O
+of	O
+the	O
+roman	organization-politicalparty
+catholic	organization-politicalparty
+state	organization-politicalparty
+party	organization-politicalparty
+and	O
+its	O
+successor	O
+party	O
+the	O
+catholic	organization-politicalparty
+people	organization-politicalparty
+'s	organization-politicalparty
+party	organization-politicalparty
+.	O
+
+hydnellum	other-livingthing
+crustulinum	other-livingthing
+is	O
+a	O
+tooth	O
+fungus	O
+in	O
+the	O
+family	O
+bankeraceae	O
+.	O
+
+surprisingly	O
+,	O
+their	O
+song	O
+f.c.p.r.e.m.i.x	art-music
+.	O
+

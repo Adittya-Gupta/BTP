@@ -1,0 +1,58 @@
+he	O
+died	O
+at	O
+leckhampton	building-hospital
+hospice	building-hospital
+.	O
+
+strigino	location-other
+is	O
+responsible	O
+for	O
+serving	O
+the	O
+3,281,000	O
+residents	O
+of	O
+the	O
+nizhny	location-other
+novgorod	location-other
+oblast	location-other
+.	O
+
+o'donovan	person-actor
+died	O
+at	O
+the	O
+age	O
+of	O
+80	O
+.	O
+
+wolves	art-music
+in	art-music
+the	art-music
+throne	art-music
+room	art-music
+were	O
+chosen	O
+by	O
+godspeed	O
+you	O
+!	O
+
+vetiver	other-livingthing
+is	O
+mainly	O
+cultivated	O
+for	O
+the	O
+fragrant	O
+essential	O
+oil	O
+distilled	O
+from	O
+its	O
+roots	O
+.	O
+

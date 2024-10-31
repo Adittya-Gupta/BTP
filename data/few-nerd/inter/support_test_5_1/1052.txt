@@ -1,0 +1,57 @@
+in	O
+another	O
+first	O
+for	O
+south	event-sportsevent
+africa	event-sportsevent
+2010	event-sportsevent
+,	O
+one	O
+squad	O
+included	O
+three	O
+siblings	O
+.	O
+
+the	O
+mcddi	organization-politicalparty
+failed	O
+to	O
+win	O
+any	O
+seats	O
+in	O
+the	O
+election	O
+.	O
+
+more	O
+heart	other-medical
+transplants	other-medical
+are	O
+performed	O
+at	O
+texas	location-other
+medical	location-other
+center	location-other
+than	O
+anywhere	O
+else	O
+in	O
+the	O
+world	O
+.	O
+
+it	O
+is	O
+located	O
+on	O
+the	O
+right	O
+bank	O
+of	O
+the	O
+river	location-bodiesofwater
+meuse	location-bodiesofwater
+.	O
+

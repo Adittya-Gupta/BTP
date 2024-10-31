@@ -1,0 +1,65 @@
+the	event-sportsevent
+2007	event-sportsevent
+tennis	event-sportsevent
+masters	event-sportsevent
+cup	event-sportsevent
+was	O
+a	O
+men	O
+'s	O
+tennis	O
+tournament	O
+played	O
+on	O
+indoor	O
+hard	O
+courts	O
+.	O
+
+chris	person-athlete
+benoit	person-athlete
+continued	O
+to	O
+feud	O
+with	O
+chavo	person-athlete
+guerrero	person-athlete
+over	O
+the	O
+wwe	event-sportsevent
+united	event-sportsevent
+states	event-sportsevent
+championship	event-sportsevent
+.	O
+
+the	O
+f-32	product-weapon
+was	O
+on	O
+the	O
+kv-1	product-weapon
+model	product-weapon
+1940	product-weapon
+.	O
+
+and	O
+the	O
+master	other-educationaldegree
+of	other-educationaldegree
+business	other-educationaldegree
+administration	other-educationaldegree
+(	O
+mba	other-educationaldegree
+)	O
+degrees	O
+.	O
+
+in	O
+1939	O
+,	O
+hillsboro	location-other
+beach	location-other
+was	O
+incorporated	O
+.	O
+

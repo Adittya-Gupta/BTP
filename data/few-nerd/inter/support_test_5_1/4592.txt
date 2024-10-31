@@ -1,0 +1,64 @@
+it	O
+was	O
+won	O
+by	O
+claudia	person-athlete
+häusler	person-athlete
+of	O
+.	O
+
+design	O
+was	O
+announced	O
+to	O
+be	O
+done	O
+by	O
+the	O
+mercedes-benz	product-car
+design	O
+team	O
+.	O
+
+he	O
+used	O
+to	O
+be	O
+associate	O
+director	O
+(	O
+community	O
+)	O
+of	O
+dundee	building-theater
+rep	building-theater
+theatre	building-theater
+.	O
+
+a	O
+new	O
+$	O
+1.300	O
+billion	O
+muhc	building-hospital
+glen	building-hospital
+site	building-hospital
+fully	O
+integrated	O
+super-hospital	O
+complex	O
+opened	O
+in	O
+2015	O
+.	O
+
+walrus	other-livingthing
+teeth	O
+are	O
+also	O
+commercially	O
+carved	O
+and	O
+traded	O
+.	O
+

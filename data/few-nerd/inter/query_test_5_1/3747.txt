@@ -1,0 +1,64 @@
+rio	O
+grande	O
+locomotives	O
+were	O
+re-lettered	O
+for	O
+fictional	O
+sierra	location-bodiesofwater
+pacific	location-bodiesofwater
+.	O
+
+the	O
+film	O
+is	O
+loosely	O
+based	O
+on	O
+the	O
+1959	O
+novel	O
+``	O
+king	art-writtenart
+'s	art-writtenart
+ransom	art-writtenart
+''	art-writtenart
+by	art-writtenart
+ed	art-writtenart
+mcbain	art-writtenart
+.	O
+
+he	O
+was	O
+an	O
+attending	O
+neurologist	O
+at	O
+vancouver	building-hospital
+general	building-hospital
+hospital	building-hospital
+and	O
+ubc	building-hospital
+hospital	building-hospital
+.	O
+
+bachelor	other-educationaldegree
+of	other-educationaldegree
+development	other-educationaldegree
+studies	other-educationaldegree
+5	O
+.	O
+
+the	O
+théâtre	building-theater
+royal	building-theater
+was	O
+renamed	O
+“	O
+théâtre	building-theater
+municipal	building-theater
+”	O
+in	O
+1870	O
+.	O
+

@@ -1,0 +1,47 @@
+at	O
+the	event-sportsevent
+hobart	event-sportsevent
+international	event-sportsevent
+,	O
+chakvetadze	person-athlete
+was	O
+defeated	O
+in	O
+the	O
+final	O
+round	O
+of	O
+qualifying	O
+by	O
+elena	person-athlete
+baltacha	person-athlete
+.	O
+
+the	O
+video	O
+also	O
+stars	O
+actress	O
+rachel	person-actor
+miner	person-actor
+.	O
+
+it	O
+is	O
+located	O
+in	O
+the	O
+everland	location-other
+resort	location-other
+.	O
+
+he	O
+did	O
+not	O
+contest	O
+the	O
+2019	O
+local	event-election
+elections	event-election
+.	O
+

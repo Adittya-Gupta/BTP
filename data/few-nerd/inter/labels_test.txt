@@ -1,0 +1,15 @@
+O
+Medical-AnatomicalStructure
+CreativeWorks-ArtWork
+Medical-Disease
+Location-Facility
+Location-HumanSettlement
+Medical-MedicalProcedure
+Medical-Medication/Vaccine
+CreativeWorks-MusicalWork
+Location-OtherLOC
+CreativeWorks-Software
+Location-Station
+Medical-Symptom
+CreativeWorks-VisualWork
+CreativeWorks-WrittenWork

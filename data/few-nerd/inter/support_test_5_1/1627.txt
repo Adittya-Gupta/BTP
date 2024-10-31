@@ -1,0 +1,64 @@
+the	O
+t-28	product-weapon
+was	O
+also	O
+greatly	O
+influenced	O
+by	O
+the	O
+a1e1	product-weapon
+independent	product-weapon
+.	O
+
+in	O
+2019	O
+an	O
+aav9	other-medical
+therapy	other-medical
+was	O
+approved	O
+:	O
+onasemnogene	other-medical
+abeparvovec	other-medical
+.	O
+
+in	O
+december	O
+2019	O
+,	O
+the	O
+new	location-other
+grafton	location-other
+bridge	location-other
+opened	O
+and	O
+runs	O
+parallel	O
+to	O
+the	O
+original	O
+bridge	O
+.	O
+
+it	O
+was	O
+the	O
+twelfth	O
+conference	event-sportsevent
+premier	event-sportsevent
+play-off	event-sportsevent
+final	event-sportsevent
+.	O
+
+)	O
+,	O
+and	O
+doctor	other-educationaldegree
+of	other-educationaldegree
+liberal	other-educationaldegree
+studies	other-educationaldegree
+(	O
+dls	other-educationaldegree
+)	O
+.	O
+

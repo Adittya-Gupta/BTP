@@ -1,0 +1,66 @@
+furthermore	O
+,	O
+edema	other-medical
+in	other-medical
+gastrocnemius	other-medical
+muscle	other-medical
+was	O
+also	O
+attenuated	O
+.	O
+
+chester	location-other
+station	location-other
+may	O
+7	O
+.	O
+
+it	O
+played	O
+to	O
+sold-out	O
+houses	O
+,	O
+rave	O
+reviews	O
+,	O
+and	O
+standing	O
+ovations	O
+for	O
+six	O
+months	O
+at	O
+the	O
+steve	building-theater
+allen	building-theater
+theater	building-theater
+.	O
+
+on	O
+may	O
+12	O
+,	O
+2012	O
+,	O
+vanilla	person-actor
+ice	person-actor
+helped	O
+in	O
+the	O
+launch	O
+of	O
+the	O
+mr	O
+.	O
+
+``	O
+사랑인거죠	art-music
+``	O
+(	O
+is	art-music
+it	art-music
+love	art-music
+?	art-music
+)	O
+

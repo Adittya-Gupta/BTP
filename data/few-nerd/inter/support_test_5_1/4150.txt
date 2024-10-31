@@ -1,0 +1,67 @@
+the	O
+headwaters	O
+of	O
+sonoita	location-bodiesofwater
+creek	location-bodiesofwater
+are	O
+just	O
+west	O
+of	O
+the	O
+site	O
+.	O
+
+sperling	O
+wanted	O
+carolyn	person-actor
+jones	person-actor
+to	O
+play	O
+the	O
+female	O
+lead	O
+.	O
+
+ether	other-medical
+causes	O
+a	O
+very	O
+long	O
+excitation	O
+stage	O
+prior	O
+to	O
+blacking	O
+out	O
+.	O
+
+beginning	O
+in	O
+september	O
+1991	O
+,	O
+the	O
+facility	O
+was	O
+idled	O
+and	O
+retooled	O
+for	O
+truck	O
+and	O
+sport	product-car
+utility	product-car
+vehicle	product-car
+assembly	O
+.	O
+
+mount	building-hospital
+elizabeth	building-hospital
+is	O
+a	O
+multi-organ	O
+transplant	O
+speciality	O
+hospital	O
+.	O
+

@@ -1,0 +1,47 @@
+several	O
+teams	O
+changed	O
+the	O
+type	O
+of	O
+car	O
+they	O
+ran	O
+during	O
+the	O
+cup	event-sportsevent
+.	O
+
+kathimerini	art-writtenart
+traditionally	O
+supports	O
+the	O
+new	organization-politicalparty
+democracy	organization-politicalparty
+party	organization-politicalparty
+.	O
+
+in	O
+2020	O
+,	O
+strong	O
+was	O
+appointed	O
+interim	O
+director	O
+of	O
+inclusion	O
+at	O
+unmc	building-hospital
+.	O
+
+)	O
+,	O
+master	other-educationaldegree
+of	other-educationaldegree
+theological	other-educationaldegree
+studies	other-educationaldegree
+(	O
+m.t.s	O
+.	O
+

@@ -1,0 +1,67 @@
+the	O
+highest	O
+concentrations	O
+of	O
+kirkbride	building-hospital
+plan	building-hospital
+hospitals	building-hospital
+were	O
+in	O
+the	O
+northeast	O
+and	O
+midwestern	O
+states	O
+.	O
+
+he	O
+qualified	O
+in	O
+1952	O
+bm	other-educationaldegree
+bch	other-educationaldegree
+and	O
+then	O
+from	O
+1952	O
+to	O
+1954	O
+held	O
+junior	O
+appointments	O
+.	O
+
+from	O
+2004–2015	O
+he	O
+was	O
+a	O
+member	O
+of	O
+youth	organization-politicalparty
+assambly	organization-politicalparty
+of	organization-politicalparty
+estonian	organization-politicalparty
+centre	organization-politicalparty
+party	organization-politicalparty
+.	O
+
+her	O
+sister	O
+won	O
+the	O
+1979	O
+australian	event-sportsevent
+open	event-sportsevent
+women	O
+'s	O
+singles	O
+title	O
+.	O
+
+with	O
+a	O
+marfanoid	other-medical
+habitus	other-medical
+.	O
+

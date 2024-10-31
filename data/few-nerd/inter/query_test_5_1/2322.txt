@@ -1,0 +1,62 @@
+ponsford	person-athlete
+scored	O
+266	O
+in	O
+his	O
+last	O
+test	O
+.	O
+
+however	O
+,	O
+it	O
+also	O
+consumes	O
+tree	O
+buds	O
+,	O
+maple	other-livingthing
+sap	O
+,	O
+and	O
+berries	O
+.	O
+
+92	O
+squadron	O
+raf	O
+moved	O
+to	O
+raf	location-other
+gutersloh	location-other
+.	O
+
+record	O
+stayed	O
+with	O
+the	art-music
+chi-lites	art-music
+until	O
+the	O
+mid-1980s	O
+for	O
+several	O
+albums	O
+on	O
+various	O
+labels	O
+before	O
+leaving	O
+again	O
+.	O
+
+he	O
+did	O
+not	O
+contest	O
+the	O
+2019	O
+local	event-election
+elections	event-election
+.	O
+

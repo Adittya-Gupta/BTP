@@ -1,0 +1,58 @@
+5	O
+''	O
+later	O
+renumbered	O
+as	O
+k-5	product-car
+.	O
+
+it	O
+may	O
+include	O
+impressions	O
+of	O
+kafi	art-writtenart
+.	O
+
+aristolochia	other-livingthing
+tuberosa	other-livingthing
+is	O
+a	O
+species	O
+of	O
+plant	O
+in	O
+the	O
+family	O
+aristolochiaceae	other-livingthing
+.	O
+
+the	O
+phoenix	building-theater
+theatre	building-theater
+was	O
+intended	O
+to	O
+be	O
+a	O
+temporary	O
+solution	O
+until	O
+a	O
+more	O
+permanent	O
+theatre	O
+could	O
+be	O
+established	O
+.	O
+
+the	O
+graduate	other-educationaldegree
+of	other-educationaldegree
+pharmacy	other-educationaldegree
+(	O
+ph.g	other-educationaldegree
+.	other-educationaldegree
+)	O
+

@@ -1,0 +1,65 @@
+constipation	other-medical
+is	O
+common	O
+.	O
+
+huerter	person-athlete
+also	O
+played	O
+baseball	O
+as	O
+a	O
+child	O
+.	O
+
+he	O
+later	O
+wrote	O
+a	O
+memoir	O
+of	O
+his	O
+wartime	O
+exploits	O
+,	O
+published	O
+as	O
+``	O
+sea	art-writtenart
+devils	art-writtenart
+``	O
+in	O
+1954	O
+.	O
+
+the	O
+bolt	O
+is	O
+absorbed	O
+by	O
+the	O
+bazooka	product-weapon
+rocket	product-weapon
+that	O
+the	O
+men	O
+had	O
+already	O
+launched	O
+at	O
+the	O
+alien	O
+ship	O
+.	O
+
+)	O
+,	O
+and	O
+master	other-educationaldegree
+of	other-educationaldegree
+sacred	other-educationaldegree
+theology	other-educationaldegree
+(	O
+s.t.m	O
+.	O
+

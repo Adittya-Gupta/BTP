@@ -1,0 +1,56 @@
+àlex	person-athlete
+corretja	person-athlete
+was	O
+the	O
+defending	O
+champion	O
+.	O
+
+between	O
+1860	O
+and	O
+1918	O
+,	O
+the	O
+minnesota	organization-politicalparty
+democratic	organization-politicalparty
+party	organization-politicalparty
+was	O
+a	O
+distant	O
+second	O
+party	O
+to	O
+the	O
+dominant	O
+republican	organization-politicalparty
+party	organization-politicalparty
+.	O
+
+the	O
+album	O
+art	O
+for	O
+the	O
+``	O
+¡viva	art-music
+la	art-music
+cobra	art-music
+!	art-music
+``	O
+
+the	O
+smestow	location-bodiesofwater
+is	O
+entirely	O
+non-navigable	O
+.	O
+
+the	O
+warehouse	building-theater
+theatre	building-theater
+opened	O
+in	O
+1977	O
+.	O
+

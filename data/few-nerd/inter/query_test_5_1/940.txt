@@ -1,0 +1,65 @@
+the	O
+unit	O
+was	O
+initially	O
+based	O
+along	O
+the	O
+north	location-other
+german	location-other
+coast	location-other
+,	O
+protecting	O
+the	O
+northern	O
+flank	O
+of	O
+occupied	O
+europe	location-other
+.	O
+
+``	O
+los	person-actor
+motivos	person-actor
+de	person-actor
+luz	person-actor
+``	O
+received	O
+two	O
+awards	O
+out	O
+of	O
+seven	O
+nominations	O
+.	O
+
+the	O
+lyrics	O
+are	O
+``	O
+sun	art-music
+sun	art-music
+kasam	art-music
+se	art-music
+``	O
+.	O
+
+tephroseris	other-livingthing
+integrifolia	other-livingthing
+``	O
+subsp	O
+.	O
+
+the	O
+bachelor	other-educationaldegree
+of	other-educationaldegree
+science	other-educationaldegree
+in	O
+elementary	O
+education	O
+was	O
+added	O
+in	O
+1982	O
+.	O
+

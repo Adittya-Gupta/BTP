@@ -1,0 +1,57 @@
+as	O
+the	O
+pacific	location-bodiesofwater
+salmon	O
+resource	O
+diminished	O
+,	O
+canneries	O
+were	O
+closed	O
+.	O
+
+1	O
+andy	person-athlete
+roddick	person-athlete
+.	O
+
+if	O
+ph	O
+is	O
+also	O
+less	O
+than	O
+7.35	O
+this	O
+is	O
+respiratory	other-medical
+acidosis	other-medical
+.	O
+
+the	O
+first	O
+public	O
+performance	O
+took	O
+place	O
+in	O
+april	O
+1676	O
+at	O
+the	O
+théâtre	building-theater
+du	building-theater
+palais-royal	building-theater
+.	O
+
+the	O
+first	O
+batch	O
+of	O
+m.tech	other-educationaldegree
+began	O
+in	O
+august	O
+2007	O
+.	O
+

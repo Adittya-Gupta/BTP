@@ -1,0 +1,63 @@
+two	O
+of	O
+his	O
+sons	O
+played	O
+cricket	O
+for	O
+bromley	person-actor
+.	O
+
+later	O
+the	O
+peugeot	product-car
+505	product-car
+was	O
+built	O
+at	O
+the	O
+plant	O
+.	O
+
+shortly	O
+after	O
+the	O
+game	O
+,	O
+team	O
+captain	O
+donavan	person-athlete
+morgan	person-athlete
+announced	O
+his	O
+retirement	O
+.	O
+
+she	O
+was	O
+named	O
+after	O
+the	O
+glacial	O
+lake	location-bodiesofwater
+monowai	location-bodiesofwater
+.	O
+
+in	O
+1963	O
+and	O
+doctor	other-educationaldegree
+of	other-educationaldegree
+philosophy	other-educationaldegree
+(	O
+ph.d.	O
+)	O
+(	O
+magna	O
+cum	O
+laude	O
+)	O
+in	O
+1966	O
+.	O
+

@@ -1,0 +1,67 @@
+each	O
+platoon	O
+had	O
+two	O
+``	O
+malyutka	product-weapon
+``	O
+sections	O
+,	O
+each	O
+with	O
+two	O
+teams	O
+.	O
+
+later	O
+in	O
+2011	O
+he	O
+founded	O
+the	O
+civilization	organization-politicalparty
+party	organization-politicalparty
+(	O
+el-hadara	organization-politicalparty
+)	O
+.	O
+
+guardian	art-writtenart
+newspaper	O
+free	O
+cd	O
+.	O
+
+it	O
+was	O
+discovered	O
+in	O
+oxyrhynchus	other-livingthing
+.	O
+
+a	O
+german	product-car
+tiger	product-car
+ii	product-car
+tank	O
+is	O
+at	O
+the	O
+entrance	O
+of	O
+the	O
+building	O
+,	O
+inside	O
+is	O
+an	O
+abandoned	O
+reconnaissance	O
+armored	O
+willys	product-car
+jeep	product-car
+in	O
+perfect	O
+condition	O
+.	O
+

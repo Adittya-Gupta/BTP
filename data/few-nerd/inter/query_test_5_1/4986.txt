@@ -1,0 +1,67 @@
+winged	O
+,	O
+aerodynamic	O
+cars	O
+built	O
+specifically	O
+for	O
+high-speed	O
+superspeedway	O
+racing	O
+such	O
+as	O
+the	O
+plymouth	product-car
+superbird	product-car
+and	O
+ford	product-car
+torino	product-car
+talladega	product-car
+made	O
+their	O
+debut	O
+.	O
+
+other	O
+reports	O
+of	O
+cannibalism	O
+have	O
+estimated	O
+as	O
+high	O
+as	O
+56	O
+%	O
+of	O
+the	O
+diet	O
+consists	O
+of	O
+juvenile	other-livingthing
+cod	other-livingthing
+.	O
+
+see	O
+goulash	organization-politicalparty
+communism	organization-politicalparty
+for	O
+information	O
+on	O
+the	O
+period	O
+.	O
+
+kerry	O
+rae	O
+groth	O
+is	O
+an	O
+mba	other-educationaldegree
+graduate	O
+.	O
+
+ouendan	art-writtenart
+2	art-writtenart
+.	O
+

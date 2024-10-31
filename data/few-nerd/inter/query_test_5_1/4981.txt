@@ -1,0 +1,66 @@
+works	O
+with	O
+bahrain	organization-government/governmentagency
+defence	organization-government/governmentagency
+forced	organization-government/governmentagency
+.	O
+
+it	O
+stars	O
+akshay	person-actor
+kumar	person-actor
+,	O
+ayesha	person-actor
+jhulka	person-actor
+and	O
+avinash	O
+wadhavan	O
+.	O
+
+he	O
+died	O
+at	O
+leckhampton	building-hospital
+hospice	building-hospital
+.	O
+
+a	O
+``	O
+prophet	O
+of	O
+nephthys	O
+''	O
+is	O
+indeed	O
+attested	O
+for	O
+the	O
+town	O
+of	O
+herakleopolis	location-other
+in	O
+the	O
+30th	O
+dynasty	O
+.	O
+
+she	O
+continued	O
+to	O
+perform	O
+her	O
+role	O
+in	O
+the	O
+show	O
+at	O
+the	O
+al	building-theater
+hirschfeld	building-theater
+theater	building-theater
+for	O
+an	O
+open-ended	O
+run	O
+.	O
+

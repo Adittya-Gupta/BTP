@@ -1,0 +1,54 @@
+mark	person-athlete
+o'connor	person-athlete
+(	O
+lotus	product-car
+exige	product-car
+)	O
+was	O
+third	O
+.	O
+
+thurston	location-other
+'s	O
+legacy	O
+is	O
+preserved	O
+throughout	O
+the	O
+islands	O
+.	O
+
+in	O
+1925	O
+he	O
+received	O
+the	other-educationaldegree
+title	other-educationaldegree
+doctor	other-educationaldegree
+honoris	other-educationaldegree
+causa	other-educationaldegree
+of	other-educationaldegree
+warsaw	other-educationaldegree
+university	other-educationaldegree
+of	other-educationaldegree
+technology	other-educationaldegree
+.	O
+
+taking	O
+amoxicillin	other-medical
+once	O
+a	O
+day	O
+may	O
+be	O
+as	O
+effective	O
+as	O
+twice	O
+or	O
+three	O
+times	O
+a	O
+day	O
+.	O
+

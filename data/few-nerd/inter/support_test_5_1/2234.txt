@@ -1,0 +1,65 @@
+she	O
+played	O
+on	O
+the	O
+lpga	event-sportsevent
+tour	event-sportsevent
+from	O
+2003	O
+to	O
+2009	O
+,	O
+winning	O
+the	O
+2007	O
+lpga	event-sportsevent
+corning	event-sportsevent
+classic	event-sportsevent
+.	O
+
+from	O
+1974	O
+to	O
+1976	O
+,	O
+he	O
+was	O
+an	O
+instructor	O
+pilot	O
+at	O
+raf	location-other
+upper	location-other
+heyford	location-other
+.	O
+
+the	O
+north	other-livingthing
+island	other-livingthing
+snipe	other-livingthing
+is	O
+extinct	O
+.	O
+
+horneff	person-actor
+began	O
+acting	O
+professionally	O
+in	O
+1992	O
+at	O
+the	O
+age	O
+of	O
+thirteen	O
+.	O
+
+the	O
+graduate	other-educationaldegree
+of	other-educationaldegree
+pharmacy	other-educationaldegree
+(	O
+ph.g	other-educationaldegree
+.	other-educationaldegree
+)	O
+

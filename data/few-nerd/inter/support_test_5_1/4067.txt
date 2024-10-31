@@ -1,0 +1,49 @@
+bundesliga	event-sportsevent
+süd	event-sportsevent
+.	O
+
+it	O
+came	O
+preceded	O
+by	O
+the	O
+lead	O
+single	O
+``	O
+soy	art-music
+humana	art-music
+``	O
+.	O
+
+risinger	person-athlete
+won	O
+game	O
+1	O
+,	O
+but	O
+was	O
+credited	O
+with	O
+the	O
+loss	O
+in	O
+game	O
+4	O
+.	O
+
+other	O
+flavors	O
+include	O
+peppermint	other-livingthing
+and	O
+coffee	O
+.	O
+
+he	O
+was	O
+subsequently	O
+dropped	O
+from	O
+cabinet	organization-government/governmentagency
+.	O
+

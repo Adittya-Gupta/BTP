@@ -1,0 +1,57 @@
+she	O
+earned	O
+a	O
+master	other-educationaldegree
+of	other-educationaldegree
+letters	other-educationaldegree
+there	O
+in	O
+1946	O
+.	O
+
+porter	O
+tank	O
+locomotive	O
+``	O
+jennie	product-car
+k	product-car
+.	product-car
+``	O
+.	O
+
+the	O
+semper	building-theater
+opera	building-theater
+house	building-theater
+also	O
+suffered	O
+damage	O
+.	O
+
+it	O
+is	O
+located	O
+on	O
+the	O
+rihand	location-bodiesofwater
+river	location-bodiesofwater
+,	O
+a	O
+tributary	O
+of	O
+the	O
+son	location-bodiesofwater
+river	location-bodiesofwater
+.	O
+
+the	O
+california	event-election
+assembly	event-election
+democratic	event-election
+caucus	event-election
+members	O
+are	O
+listed	O
+at	O
+.	O
+

@@ -1,0 +1,65 @@
+it	O
+has	O
+two	O
+saltwater	O
+lagoons	O
+:	O
+piratininga	location-bodiesofwater
+and	O
+itaipu	location-bodiesofwater
+.	O
+
+the	O
+law	O
+enforcement	O
+duties	O
+involve	O
+counter-	O
+narcotic	other-medical
+operations	O
+,	O
+fisheries	O
+,	O
+and	O
+environmental	O
+protection	O
+.	O
+
+polish	organization-politicalparty
+socialist	organization-politicalparty
+party	organization-politicalparty
+)	O
+.	O
+
+the	O
+barrett	product-weapon
+m95	product-weapon
+has	O
+better	O
+magazine	O
+clearance	O
+because	O
+the	O
+pistol	O
+grip	O
+and	O
+trigger	O
+have	O
+been	O
+moved	O
+forward	O
+on	O
+the	O
+gun	O
+.	O
+
+her	O
+husband	O
+rang	O
+church	O
+bells	O
+at	O
+market	location-other
+weighton	location-other
+.	O
+

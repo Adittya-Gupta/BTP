@@ -1,0 +1,52 @@
+cannon	Location-Station
+street	Location-Station
+station	Location-Station
+was	O
+built	O
+on	O
+the	O
+site	O
+and	O
+opened	O
+in	O
+1866	O
+.	O
+
+vienna	Location-HumanSettlement
+ljubljana	Location-HumanSettlement
+ptuj	Location-HumanSettlement
+bled	Location-HumanSettlement
+postojna	Location-Facility
+cave	Location-Facility
+piran	Location-HumanSettlement
+koper	Location-HumanSettlement
+graz	Location-HumanSettlement
+
+vienna	Location-HumanSettlement
+ljubljana	Location-HumanSettlement
+ptuj	Location-HumanSettlement
+bled	Location-HumanSettlement
+postojna	Location-Facility
+cave	Location-Facility
+piran	Location-HumanSettlement
+koper	Location-HumanSettlement
+graz	Location-HumanSettlement
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+

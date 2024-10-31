@@ -1,0 +1,60 @@
+sources	O
+:	O
+www.opengolf.com	O
+,	O
+the	O
+glasgow	art-writtenart
+herald	art-writtenart
+,	O
+20	O
+may	O
+1903	O
+,	O
+pg	O
+.	O
+
+the	O
+1904	O
+kentucky	event-sportsevent
+derby	event-sportsevent
+was	O
+the	O
+30th	O
+running	O
+of	O
+the	O
+kentucky	event-sportsevent
+derby	event-sportsevent
+.	O
+
+timothy	O
+l.	O
+woodruff	O
+was	O
+re-elected	O
+;	O
+both	O
+republicans	organization-politicalparty
+.	O
+
+9	O
+on	O
+the	O
+alternative	O
+radio	O
+charts	O
+kiss	art-music
+kiss	art-music
+bang	art-music
+bang	art-music
+and	O
+f.m.b.q	art-music
+.	O
+
+the	O
+smestow	location-bodiesofwater
+is	O
+entirely	O
+non-navigable	O
+.	O
+

@@ -1,0 +1,65 @@
+provisions	O
+were	O
+included	O
+for	O
+two	O
+20	O
+mm	O
+(	O
+0.906	O
+in	O
+)	O
+madsen	product-weapon
+cannon	O
+as	O
+armament	O
+.	O
+
+he	O
+was	O
+confirmed	O
+by	O
+the	O
+united	organization-government/governmentagency
+states	organization-government/governmentagency
+senate	organization-government/governmentagency
+on	O
+june	O
+12	O
+,	O
+1967	O
+,	O
+and	O
+received	O
+his	O
+commission	O
+the	O
+same	O
+day	O
+.	O
+
+howell	O
+and	O
+t.	person-athlete
+williams	person-athlete
+.	O
+
+(	O
+aria	O
+:	O
+''	O
+vezze	O
+,	O
+lusinghe	location-bodiesofwater
+``	O
+)	O
+.	O
+
+papyrus	art-writtenart
+oxyrhynchus	art-writtenart
+15	art-writtenart
+(	O
+p.	O
+oxy	O
+.	O
+

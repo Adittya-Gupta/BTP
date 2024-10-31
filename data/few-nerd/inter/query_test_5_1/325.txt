@@ -1,0 +1,66 @@
+it	O
+was	O
+the	O
+49th	O
+mr.	event-sportsevent
+olympia	event-sportsevent
+competition	event-sportsevent
+held	O
+.	O
+
+measured	O
+at	O
+monroe	O
+,	O
+the	location-bodiesofwater
+snohomish	location-bodiesofwater
+river	location-bodiesofwater
+has	O
+an	O
+average	O
+annual	O
+flow	O
+of	O
+.	O
+
+as	O
+a	O
+result	O
+of	O
+the	O
+medical	building-hospital
+center	building-hospital
+'s	O
+construction	O
+,	O
+a	O
+new	O
+economic	O
+sector	O
+was	O
+born	O
+.	O
+
+in	O
+2006	O
+he	O
+took	O
+his	O
+master	other-educationaldegree
+'s	other-educationaldegree
+degree	other-educationaldegree
+in	other-educationaldegree
+political	other-educationaldegree
+science	other-educationaldegree
+.	O
+
+he	O
+did	O
+not	O
+contest	O
+the	O
+1945	event-election
+general	event-election
+election	event-election
+.	O
+

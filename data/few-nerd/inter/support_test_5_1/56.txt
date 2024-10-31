@@ -1,0 +1,54 @@
+she	O
+then	O
+arrived	O
+at	O
+long	location-other
+reach	location-other
+on	O
+15	O
+september	O
+.	O
+
+rvnaf	organization-government/governmentagency
+helicopters	O
+brought	O
+in	O
+supplies	O
+and	O
+reinforcements	O
+and	O
+evacuated	O
+wounded	O
+.	O
+
+the	O
+confluence	O
+with	O
+dry	location-bodiesofwater
+creek	location-bodiesofwater
+is	O
+at	O
+.	O
+
+catherine	person-actor
+bell	person-actor
+guest	O
+stars	O
+,	O
+andrea	person-actor
+parker	person-actor
+recurs	O
+.	O
+
+and	O
+then	O
+as	O
+a	O
+full-featured	O
+except	O
+to	O
+bobino	building-theater
+and	O
+gaumont-palace	building-theater
+.	O
+

@@ -1,0 +1,67 @@
+there	O
+has	O
+been	O
+suggested	O
+that	O
+4-mta	other-medical
+because	O
+of	O
+its	O
+slow	O
+onset	O
+of	O
+action	O
+,	O
+is	O
+more	O
+dangerous	O
+than	O
+other	O
+designer	O
+drugs	O
+.	O
+
+the	O
+graduate	other-educationaldegree
+of	other-educationaldegree
+pharmacy	other-educationaldegree
+(	O
+ph.g	other-educationaldegree
+.	other-educationaldegree
+)	O
+
+9.	O
+,	O
+the	O
+glasgow	art-writtenart
+herald	art-writtenart
+,	O
+25	O
+may	O
+1921	O
+,	O
+pg	O
+.	O
+
+he	O
+also	O
+confirmed	O
+that	O
+the	O
+conservatives	organization-politicalparty
+would	O
+contest	O
+the	O
+by-election	O
+.	O
+
+he	O
+did	O
+not	O
+contest	O
+the	O
+2019	O
+local	event-election
+elections	event-election
+.	O
+

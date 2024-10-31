@@ -1,0 +1,67 @@
+hypotonia	other-medical
+is	O
+common	O
+(	O
+75	O
+%	O
+)	O
+,	O
+as	O
+is	O
+an	O
+unsteady	O
+gait	O
+.	O
+
+the	O
+album	O
+'s	O
+second	O
+single	O
+``	O
+pounding	art-music
+``	O
+reached	O
+no	O
+.	O
+
+04	O
+dodge	person-athlete
+ran	O
+for	O
+two	O
+races	O
+.	O
+
+salmon	other-livingthing
+and	O
+trout	O
+fishing	O
+in	O
+the	O
+bay	O
+,	O
+nearby	O
+lakes	O
+and	O
+rivers	O
+.	O
+
+initially	O
+,	O
+the	O
+bachelor	other-educationaldegree
+of	other-educationaldegree
+science	other-educationaldegree
+in	O
+business	O
+administration	O
+and	O
+bachelor	other-educationaldegree
+of	other-educationaldegree
+general	other-educationaldegree
+studies	other-educationaldegree
+were	O
+offered	O
+.	O
+

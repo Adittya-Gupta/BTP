@@ -1,0 +1,64 @@
+he	O
+died	O
+at	O
+leckhampton	building-hospital
+hospice	building-hospital
+.	O
+
+in	O
+1981	O
+,	O
+ochowicz	person-athlete
+founded	O
+the	O
+successful	O
+squad	O
+,	O
+which	O
+he	O
+managed	O
+through	O
+1995	O
+.	O
+
+while	O
+some	O
+sources	O
+call	O
+the	O
+mac-10	product-weapon
+and	O
+mac-11	product-weapon
+machine	O
+pistols	O
+,	O
+the	O
+guns	O
+are	O
+also	O
+referred	O
+to	O
+as	O
+compact	O
+submachine	O
+guns	O
+.	O
+
+louise	O
+colbert	O
+and	O
+philip	person-actor
+madoc	person-actor
+as	O
+det	O
+.	O
+
+he	O
+lost	O
+the	O
+vidhansabha	event-election
+election	event-election
+this	O
+year	O
+.	O
+

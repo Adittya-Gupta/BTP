@@ -1,0 +1,67 @@
+hamilton	person-athlete
+moved	O
+to	O
+the	O
+no	O
+.	O
+
+twelve	O
+teams	O
+competed	O
+in	O
+the	O
+2018–19	O
+nifl	event-sportsevent
+premiership	event-sportsevent
+,	O
+ten	O
+of	O
+which	O
+retained	O
+their	O
+premiership	O
+status	O
+from	O
+the	O
+previous	O
+season	O
+.	O
+
+their	O
+first	O
+record	O
+``	O
+sumut	art-music
+''	art-music
+``	art-music
+where	art-music
+to	art-music
+?	art-music
+``	O
+
+he	O
+received	O
+the	O
+rank	O
+of	O
+master	other-educationaldegree
+of	other-educationaldegree
+law	other-educationaldegree
+in	O
+1940	O
+.	O
+
+the	O
+entrance	O
+to	O
+the	O
+théâtre	building-theater
+des	building-theater
+bouffes-parisiens	building-theater
+is	O
+located	O
+in	O
+the	O
+passage	O
+.	O
+

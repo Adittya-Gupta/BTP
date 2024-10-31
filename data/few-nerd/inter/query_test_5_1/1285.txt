@@ -1,0 +1,64 @@
+ixora	other-livingthing
+setchellii	other-livingthing
+is	O
+a	O
+species	O
+of	O
+flowering	O
+plant	O
+in	O
+the	O
+family	O
+rubiaceae	O
+.	O
+
+it	O
+was	O
+the	O
+first	O
+win	O
+for	O
+the	O
+new	O
+plymouth	product-car
+superbird	product-car
+.	O
+
+catherine	person-actor
+bell	person-actor
+guest	O
+stars	O
+,	O
+andrea	person-actor
+parker	person-actor
+recurs	O
+.	O
+
+a	O
+vast	O
+number	O
+of	O
+bible	art-writtenart
+translations	O
+and	O
+commentaries	O
+are	O
+available	O
+for	O
+palm	art-writtenart
+bible	art-writtenart
+plus	art-writtenart
+.	O
+
+the	O
+3rd	event-election
+andhrapradesh	event-election
+legislative	event-election
+assembly	event-election
+election	event-election
+was	O
+held	O
+in	O
+1962	O
+.	O
+

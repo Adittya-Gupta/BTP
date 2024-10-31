@@ -1,0 +1,57 @@
+the	O
+kjv	art-writtenart
+translates	O
+isaiah	art-writtenart
+34:14	O
+thus	O
+:	O
+
+mallika	O
+sherawat	O
+and	O
+rahul	person-actor
+bose	person-actor
+played	O
+the	O
+lead	O
+cast	O
+.	O
+
+he	O
+also	O
+raced	O
+in	O
+the	O
+dutch	event-sportsevent
+formula	event-sportsevent
+arcobaleno	event-sportsevent
+and	O
+the	O
+german	event-sportsevent
+formula	event-sportsevent
+könig	event-sportsevent
+.	O
+
+he	O
+now	O
+holds	O
+a	O
+ph.d	other-educationaldegree
+in	other-educationaldegree
+theology	other-educationaldegree
+.	O
+
+the	O
+membership	O
+of	O
+the	O
+armenakan	organization-politicalparty
+party	organization-politicalparty
+was	O
+absorbed	O
+into	O
+the	O
+new	O
+party	O
+.	O
+

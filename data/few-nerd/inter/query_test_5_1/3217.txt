@@ -1,0 +1,56 @@
+boelen	person-athlete
+'s	O
+daughter	O
+femke	person-athlete
+is	O
+also	O
+an	O
+olympic	event-sportsevent
+rower	O
+.	O
+
+in	O
+addition	O
+it	O
+offered	O
+a	O
+three-year	O
+ministerial	O
+diploma	O
+and	O
+one	O
+year	O
+bible	art-writtenart
+course	O
+.	O
+
+in	O
+1960	O
+he	O
+was	O
+fired	O
+from	O
+laterna	building-theater
+magika	building-theater
+.	O
+
+for	O
+two	O
+decades	O
+,	O
+he	O
+has	O
+been	O
+the	O
+presumed	O
+republican	organization-politicalparty
+nominee	O
+'s	O
+speechwriter	O
+,	O
+adviser	O
+and	O
+confidant	O
+.	O
+''	O
+

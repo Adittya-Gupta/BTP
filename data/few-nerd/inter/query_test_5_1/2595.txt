@@ -1,0 +1,66 @@
+in	O
+another	O
+first	O
+for	O
+south	event-sportsevent
+africa	event-sportsevent
+2010	event-sportsevent
+,	O
+one	O
+squad	O
+included	O
+three	O
+siblings	O
+.	O
+
+randolph	person-athlete
+lycett	person-athlete
+/	O
+tom	person-athlete
+tachell	person-athlete
+defeated	O
+e.t	O
+.	O
+
+their	O
+second	O
+full-length	O
+album	O
+,	O
+``	O
+form	art-music
+and	art-music
+control	art-music
+``	O
+,	O
+was	O
+released	O
+february	O
+13th	O
+,	O
+2012	O
+.	O
+
+in	O
+anthropology	O
+in	O
+1995	O
+and	O
+a	O
+ph.d.	other-educationaldegree
+in	other-educationaldegree
+integrative	other-educationaldegree
+biology	other-educationaldegree
+in	O
+2001	O
+.	O
+
+ball	building-hospital
+memorial	building-hospital
+hospital	building-hospital
+also	O
+expanded	O
+its	O
+facilities	O
+.	O
+

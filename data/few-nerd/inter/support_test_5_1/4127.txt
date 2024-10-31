@@ -1,0 +1,62 @@
+ball	building-hospital
+memorial	building-hospital
+hospital	building-hospital
+also	O
+expanded	O
+its	O
+facilities	O
+.	O
+
+she	O
+was	O
+engaged	O
+at	O
+the	O
+comédie-française	building-theater
+in	O
+1768	O
+.	O
+
+pelegrina	other-livingthing
+exigua	other-livingthing
+is	O
+a	O
+species	O
+of	O
+jumping	O
+spider	O
+in	O
+the	O
+family	O
+salticidae	other-livingthing
+.	O
+
+he	O
+was	O
+resign	O
+to	O
+telugu	organization-politicalparty
+desam	organization-politicalparty
+in	O
+2004	O
+due	O
+to	O
+being	O
+denied	O
+ticket	O
+.	O
+
+(	O
+hons	O
+)	O
+programme	O
+,	O
+and	O
+a	O
+b.com	other-educationaldegree
+ll.b	other-educationaldegree
+(	O
+hons	O
+.	O
+)	O
+

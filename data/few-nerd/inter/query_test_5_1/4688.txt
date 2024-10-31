@@ -1,0 +1,65 @@
+it	O
+is	O
+operated	O
+by	O
+the	O
+texas	organization-government/governmentagency
+department	organization-government/governmentagency
+of	organization-government/governmentagency
+state	organization-government/governmentagency
+health	organization-government/governmentagency
+services	organization-government/governmentagency
+.	O
+
+on	O
+may	O
+11	O
+,	O
+1963	O
+,	O
+fort	location-other
+de	location-other
+soto	location-other
+park	location-other
+was	O
+officially	O
+dedicated	O
+.	O
+
+the	O
+senator	building-theater
+theatre	building-theater
+routinely	O
+hosts	O
+special	O
+events	O
+that	O
+have	O
+raised	O
+millions	O
+of	O
+dollars	O
+for	O
+local	O
+charities	O
+.	O
+
+surya	person-athlete
+bonaly	person-athlete
+is	O
+one	O
+of	O
+his	O
+students	O
+.	O
+
+coulthard	person-actor
+'s	O
+television	O
+appearances	O
+include	O
+several	O
+costume	O
+dramas	O
+.	O
+

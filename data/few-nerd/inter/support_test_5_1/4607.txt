@@ -1,0 +1,66 @@
+it	O
+was	O
+seen	O
+as	O
+a	O
+distinct	O
+subspecies	O
+,	O
+most	O
+often	O
+as	O
+``	O
+panthera	other-livingthing
+tigris	other-livingthing
+virgata	other-livingthing
+``	O
+.	O
+
+the	O
+m91	product-weapon
+is	O
+a	O
+semi-automatic	O
+rifle	O
+fed	O
+from	O
+detachable	O
+10-round	O
+box	O
+magazines	O
+.	O
+
+therefore	O
+,	O
+the	event-sportsevent
+wsop	event-sportsevent
+europe	event-sportsevent
+was	O
+not	O
+held	O
+in	O
+2014	O
+or	O
+2016	O
+.	O
+
+growth	other-medical
+hormone	other-medical
+deficiency	O
+is	O
+treated	O
+by	O
+replacing	O
+gh	other-medical
+.	O
+
+he	O
+received	O
+master	other-educationaldegree
+of	other-educationaldegree
+engineering	other-educationaldegree
+(	O
+m.e	other-educationaldegree
+.	O
+)	O
+

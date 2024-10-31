@@ -1,0 +1,62 @@
+it	O
+is	O
+the	O
+birthplace	O
+of	O
+actor	O
+john	person-actor
+wayne	person-actor
+.	O
+
+it	O
+is	O
+both	O
+a	O
+cranial	O
+and	O
+a	O
+focal	O
+dystonia	other-medical
+.	O
+
+and	O
+the	O
+``	O
+vreme	event-election
+je	event-election
+!	O
+''	O
+
+in	O
+``	O
+golden	product-weapon
+axe	product-weapon
+ii	product-weapon
+``	O
+,	O
+she	O
+has	O
+a	O
+new	O
+outfit	O
+.	O
+
+music	O
+videos	O
+for	O
+``	O
+favorite	art-music
+time	art-music
+of	art-music
+year	art-music
+``	O
+and	O
+``	O
+t'is	art-music
+the	art-music
+season	art-music
+``	O
+were	O
+produced	O
+.	O
+

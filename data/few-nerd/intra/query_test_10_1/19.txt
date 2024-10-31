@@ -1,0 +1,67 @@
+davis	O
+has	O
+a	O
+form	O
+of	O
+dwarfism	Medical-Disease
+called	O
+diastrophic	Medical-Disease
+dysplaasia	Medical-Disease
+and	O
+is	O
+tall	O
+.	O
+
+he	O
+is	O
+perhaps	O
+best	O
+known	O
+for	O
+his	O
+work	O
+on	O
+the	O
+animated	O
+show	O
+bro'town	CreativeWorks-VisualWork
+.	O
+
+vienna	Location-HumanSettlement
+ljubljana	Location-HumanSettlement
+ptuj	Location-HumanSettlement
+bled	Location-HumanSettlement
+postojna	Location-Facility
+cave	Location-Facility
+piran	Location-HumanSettlement
+koper	Location-HumanSettlement
+graz	Location-HumanSettlement
+
+vienna	Location-HumanSettlement
+ljubljana	Location-HumanSettlement
+ptuj	Location-HumanSettlement
+bled	Location-HumanSettlement
+postojna	Location-Facility
+cave	Location-Facility
+piran	Location-HumanSettlement
+koper	Location-HumanSettlement
+graz	Location-HumanSettlement
+
+she	O
+is	O
+told	O
+that	O
+her	O
+chemothearpy	Medical-MedicalProcedure
+is	O
+not	O
+working	O
+and	O
+she	O
+decides	O
+to	O
+stop	O
+the	O
+treatment	O
+.	O
+

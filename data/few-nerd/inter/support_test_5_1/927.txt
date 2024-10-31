@@ -1,0 +1,52 @@
+9.	O
+,	O
+the	O
+glasgow	art-writtenart
+herald	art-writtenart
+,	O
+23	O
+may	O
+1928	O
+,	O
+pg	O
+.	O
+
+the	O
+peugeot	product-car
+307	product-car
+cc	product-car
+hybride	product-car
+hdi	product-car
+generated	O
+a	O
+lot	O
+of	O
+interest	O
+.	O
+
+flatulence	other-medical
+has	O
+been	O
+recorded	O
+in	O
+whales	other-livingthing
+.	O
+
+the	O
+thoracic	O
+surgery	O
+unit	O
+was	O
+also	O
+closed	O
+this	O
+year	O
+and	O
+relocated	O
+to	O
+the	O
+royal	building-hospital
+victoria	building-hospital
+hospital	building-hospital
+.	O
+

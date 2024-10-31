@@ -1,0 +1,65 @@
+the	O
+team	O
+won	O
+the	O
+2009	O
+and	O
+2011	O
+sea	event-sportsevent
+games	event-sportsevent
+gold	O
+medal	O
+.	O
+
+the	O
+ira	organization-government/governmentagency
+gunmen	O
+returned	O
+fire	O
+and	O
+managed	O
+to	O
+escape	O
+.	O
+
+in	O
+1963	O
+and	O
+doctor	other-educationaldegree
+of	other-educationaldegree
+philosophy	other-educationaldegree
+(	O
+ph.d.	O
+)	O
+(	O
+magna	O
+cum	O
+laude	O
+)	O
+in	O
+1966	O
+.	O
+
+siddharth	person-actor
+ray	person-actor
+was	O
+born	O
+into	O
+a	O
+marathi	O
+jain	O
+family	O
+.	O
+
+he	O
+was	O
+re-elected	O
+in	O
+the	O
+november	event-election
+2010	event-election
+victorian	event-election
+state	event-election
+election	event-election
+.	O
+

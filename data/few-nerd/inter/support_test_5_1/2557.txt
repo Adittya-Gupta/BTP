@@ -1,0 +1,61 @@
+hard-charging	O
+bruiser	O
+kurt	person-athlete
+rambis	person-athlete
+pulled	O
+down	O
+11	O
+rebounds	O
+.	O
+
+she	O
+also	O
+represented	O
+this	O
+role	O
+at	O
+the	O
+teatro	building-theater
+dell'opera	building-theater
+di	building-theater
+roma	building-theater
+in	O
+march	O
+2012	O
+.	O
+
+it	O
+is	O
+named	O
+for	O
+actress	O
+ethel	person-actor
+barrymore	person-actor
+.	O
+
+sibirocosa	other-livingthing
+sibirica	other-livingthing
+is	O
+a	O
+species	O
+of	O
+wolf	O
+spider	O
+.	O
+
+this	O
+antigen	O
+is	O
+recognized	O
+by	O
+the	O
+monoclonal	O
+antibodies	O
+(	O
+mabs	O
+)	O
+okm5	other-medical
+and	O
+okm8	other-medical
+.	O
+

@@ -1,0 +1,66 @@
+his	O
+works	O
+are	O
+the	O
+``	O
+philippide	art-writtenart
+``	O
+and	O
+the	O
+``	O
+gesta	art-writtenart
+philippi	art-writtenart
+h.	art-writtenart
+regis	art-writtenart
+francorum	art-writtenart
+``	O
+.	O
+
+and	O
+then	O
+as	O
+a	O
+full-featured	O
+except	O
+to	O
+bobino	building-theater
+and	O
+gaumont-palace	building-theater
+.	O
+
+the	O
+film	O
+was	O
+produced	O
+by	O
+and	O
+stars	O
+joey	person-actor
+travolta	person-actor
+.	O
+
+and	O
+began	O
+his	O
+career	O
+in	O
+the	O
+royal	organization-government/governmentagency
+navy	organization-government/governmentagency
+.	O
+
+the	O
+party	O
+also	O
+ran	O
+in	O
+the	O
+welsh	event-election
+assembly	event-election
+elections	event-election
+in	O
+2007	O
+and	O
+2011	O
+.	O
+

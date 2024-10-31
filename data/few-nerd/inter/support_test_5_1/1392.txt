@@ -1,0 +1,63 @@
+the	O
+wonderful	art-music
+world	art-music
+of	art-music
+disney	art-music
+presents	art-music
+the	art-music
+little	art-music
+mermaid	art-music
+live	art-music
+!	art-music
+,	O
+or	O
+simply	O
+the	O
+little	O
+mermaid	O
+live	O
+!	O
+
+rice	location-bodiesofwater
+lake	location-bodiesofwater
+was	O
+named	O
+in	O
+1870	O
+after	O
+nearby	O
+rice	location-bodiesofwater
+lake	location-bodiesofwater
+.	O
+
+hopkins	person-athlete
+was	O
+fined	O
+$	O
+200,000	O
+for	O
+instigating	O
+the	O
+brawl	O
+.	O
+
+prototypes	O
+were	O
+tested	O
+based	O
+on	O
+the	O
+t-28	product-weapon
+medium	product-weapon
+tank	product-weapon
+in	O
+1940	O
+.	O
+
+bachelor	other-educationaldegree
+of	other-educationaldegree
+social	other-educationaldegree
+sciences	other-educationaldegree
+4	O
+.	O
+

@@ -1,0 +1,59 @@
+rogers	location-other
+'	location-other
+gap	location-other
+august	O
+16	O
+.	O
+
+saurita	other-livingthing
+tetraema	other-livingthing
+is	O
+a	O
+moth	O
+in	O
+the	O
+subfamily	O
+arctiinae	O
+.	O
+
+the	O
+lake	O
+is	O
+also	O
+fed	O
+by	O
+the	O
+washita	location-bodiesofwater
+river	location-bodiesofwater
+from	O
+the	O
+north	O
+.	O
+
+he	O
+was	O
+married	O
+to	O
+model	O
+and	O
+actress	O
+betty	person-actor
+lago	person-actor
+for	O
+many	O
+years	O
+.	O
+
+the	O
+mauser	product-weapon
+hsc	product-weapon
+was	O
+a	O
+self-loading	O
+handgun	O
+introduced	O
+in	O
+the	O
+1940s	O
+.	O
+

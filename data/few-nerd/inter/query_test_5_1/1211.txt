@@ -1,0 +1,63 @@
+using	O
+caffeine	other-medical
+and	O
+naps	O
+before	O
+night	O
+shifts	O
+can	O
+decrease	O
+sleepiness	O
+.	O
+
+the	O
+guys	event-sportsevent
+and	event-sportsevent
+dolls	event-sportsevent
+competition	event-sportsevent
+arrived	O
+at	O
+the	O
+track	O
+in	O
+1997	O
+.	O
+
+resident	O
+canada	other-livingthing
+geese	other-livingthing
+and	O
+mallards	O
+also	O
+inhabit	O
+the	O
+park	O
+'s	O
+two	O
+ponds	O
+.	O
+
+)	O
+,	O
+master	other-educationaldegree
+of	other-educationaldegree
+theological	other-educationaldegree
+studies	other-educationaldegree
+(	O
+m.t.s	O
+.	O
+
+the	O
+new	event-election
+york	event-election
+state	event-election
+election	event-election
+,	O
+1898	O
+was	O
+held	O
+on	O
+november	O
+8	O
+.	O
+

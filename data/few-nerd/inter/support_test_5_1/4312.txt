@@ -1,0 +1,66 @@
+``	O
+eslenes	O
+''	O
+was	O
+nowhere	O
+near	O
+mission	location-other
+san	location-other
+carlos	location-other
+.	O
+
+the	O
+new	event-election
+york	event-election
+state	event-election
+election	event-election
+,	O
+1876	O
+was	O
+held	O
+on	O
+november	O
+7	O
+.	O
+
+he	O
+was	O
+a	O
+founder	O
+member	O
+of	O
+the	O
+ghadar	organization-politicalparty
+party	organization-politicalparty
+.	O
+
+the	O
+range	O
+intercepts	O
+humid	O
+air	O
+moving	O
+west	O
+from	O
+the	O
+gulf	location-bodiesofwater
+of	location-bodiesofwater
+mexico	location-bodiesofwater
+.	O
+
+he	O
+died	O
+of	O
+pneumonia	O
+on	O
+january	O
+17	O
+,	O
+2015	O
+at	O
+the	O
+montreal	building-hospital
+general	building-hospital
+hospital	building-hospital
+.	O
+

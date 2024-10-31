@@ -1,0 +1,67 @@
+venom	O
+in	O
+the	O
+saliva	O
+of	O
+the	O
+gila	other-livingthing
+monster	other-livingthing
+and	O
+some	O
+other	O
+reptiles	O
+enters	O
+prey	O
+through	O
+bites	O
+of	O
+grooved	O
+teeth	O
+.	O
+
+2	O
+or	O
+south	location-other
+(	location-other
+15	location-other
+)	location-other
+.	O
+
+rolen	person-athlete
+'s	O
+season	O
+was	O
+one	O
+of	O
+his	O
+best	O
+.	O
+
+garth	person-actor
+williams	person-actor
+,	O
+emily	person-actor
+whitlock	person-actor
+reed	person-actor
+,	O
+and	O
+senator	O
+e.w	O
+.	O
+
+he	O
+died	O
+at	O
+seattle	building-hospital
+'s	building-hospital
+harborview	building-hospital
+medical	building-hospital
+center	building-hospital
+from	O
+complications	O
+suffered	O
+after	O
+a	O
+fall	O
+.	O
+

@@ -1,0 +1,62 @@
+dena	product-car
+will	O
+replace	O
+the	O
+ikco	product-car
+samand	product-car
+in	O
+non-domestic	O
+markets	O
+after	O
+the	O
+manufacturer	O
+starts	O
+mass	O
+production	O
+.	O
+
+``	O
+movieline	O
+''	O
+found	O
+cummins	person-actor
+in	O
+2009	O
+,	O
+still	O
+healthy	O
+.	O
+
+in	O
+1994	O
+she	O
+also	O
+won	O
+olympic	event-sportsevent
+trials	event-sportsevent
+.	O
+
+exist	O
+,	O
+such	O
+as	O
+the	O
+master	other-educationaldegree
+of	other-educationaldegree
+legal	other-educationaldegree
+practice	other-educationaldegree
+(	O
+m.l.p	other-educationaldegree
+.	other-educationaldegree
+)	O
+
+in	O
+1960	O
+he	O
+was	O
+fired	O
+from	O
+laterna	building-theater
+magika	building-theater
+.	O
+

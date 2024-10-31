@@ -1,0 +1,67 @@
+there	O
+,	O
+he	O
+met	O
+his	O
+brother	O
+,	O
+keto	other-livingthing
+,	O
+and	O
+his	O
+playmate	O
+,	O
+sumar	other-livingthing
+.	O
+
+it	O
+may	O
+include	O
+impressions	O
+of	O
+kafi	art-writtenart
+.	O
+
+after	O
+losing	O
+the	O
+2005	O
+danish	event-election
+parliamentary	event-election
+election	event-election
+he	O
+resigned	O
+as	O
+leader	O
+of	O
+his	O
+party	O
+.	O
+
+51	O
+patrol	O
+officers	O
+in	O
+the	O
+minneapolis	organization-government/governmentagency
+police	organization-government/governmentagency
+department	organization-government/governmentagency
+participated	O
+in	O
+the	O
+study	O
+.	O
+
+jarvis	building-hospital
+hospital	building-hospital
+was	O
+closed	O
+in	O
+1865	O
+at	O
+the	O
+war	O
+'s	O
+end	O
+.	O
+

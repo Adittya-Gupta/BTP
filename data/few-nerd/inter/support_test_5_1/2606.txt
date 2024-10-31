@@ -1,0 +1,61 @@
+the	O
+proposed	O
+sp.a	organization-politicalparty
+/	O
+spirit	organization-politicalparty
+/	O
+groen	O
+!	O
+
+the	O
+libraries	O
+have	O
+expanded	O
+into	O
+la	organization-government/governmentagency
+sheriff	organization-government/governmentagency
+department	organization-government/governmentagency
+lobbies	O
+with	O
+four	O
+in	O
+the	O
+works	O
+.	O
+
+randolph	person-athlete
+lycett	person-athlete
+/	O
+tom	person-athlete
+tachell	person-athlete
+defeated	O
+e.t	O
+.	O
+
+they	O
+had	O
+enlarged	O
+turrets	O
+,	O
+and	O
+a	O
+type	product-weapon
+1	product-weapon
+47	product-weapon
+mm	product-weapon
+main	product-weapon
+turret	product-weapon
+gun	product-weapon
+.	O
+
+she	O
+was	O
+promoted	O
+to	O
+be	O
+a	O
+professor	other-educationaldegree
+in	O
+1991	O
+.	O
+

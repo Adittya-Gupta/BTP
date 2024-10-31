@@ -1,0 +1,67 @@
+on	O
+30	O
+november	O
+1958	O
+,	O
+the	O
+establishment	O
+of	O
+the	O
+ryukyu	organization-politicalparty
+guomindang	organization-politicalparty
+took	O
+place	O
+.	O
+
+ngolepus	person-athlete
+started	O
+training	O
+in	O
+1997	O
+alongside	O
+tegla	person-athlete
+loroupe	person-athlete
+.	O
+
+maimonides	building-hospital
+medical	building-hospital
+center	building-hospital
+is	O
+a	O
+pioneer	O
+in	O
+implementing	O
+health	O
+information	O
+technology	O
+.	O
+
+it	O
+briefly	O
+returned	O
+in	O
+2007	O
+as	O
+a	O
+one-off	O
+special	O
+presented	O
+by	O
+trevor	person-actor
+mcdonald	person-actor
+.	O
+
+this	O
+left	O
+an	O
+rcl	product-weapon
+surfeit	O
+that	O
+was	O
+sold	O
+off	O
+for	O
+civilian	O
+uses	O
+.	O
+

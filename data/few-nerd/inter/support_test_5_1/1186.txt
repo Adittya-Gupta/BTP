@@ -1,0 +1,67 @@
+lesotho	O
+cyclists	O
+usually	O
+compete	O
+in	O
+cycling	event-sportsevent
+south	event-sportsevent
+africa	event-sportsevent
+races	event-sportsevent
+.	O
+
+it	O
+has	O
+been	O
+written	O
+that	O
+the	O
+alias	O
+of	O
+usan-guk	location-other
+is	O
+ulleung-do	location-other
+.	O
+
+rainwater	person-actor
+performed	O
+and	O
+toured	O
+throughout	O
+the	O
+rest	O
+of	O
+the	O
+1950s	O
+.	O
+
+he	O
+received	O
+the	O
+rank	O
+of	O
+master	other-educationaldegree
+of	other-educationaldegree
+law	other-educationaldegree
+in	O
+1940	O
+.	O
+
+one	O
+sign	O
+of	O
+the	O
+us	O
+setback	O
+in	O
+the	O
+region	O
+has	O
+been	O
+the	event-election
+oea	event-election
+2005	event-election
+secretary	event-election
+general	event-election
+election	event-election
+.	O
+

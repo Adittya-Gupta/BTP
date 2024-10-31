@@ -1,0 +1,67 @@
+surprisingly	O
+,	O
+their	O
+song	O
+f.c.p.r.e.m.i.x	art-music
+.	O
+
+the	O
+golden	location-other
+gate	location-other
+bridge	location-other
+had	O
+a	O
+permanent	O
+movable	O
+barrier	O
+system	O
+installed	O
+in	O
+january	O
+2015	O
+.	O
+
+(	O
+hons	O
+)	O
+programme	O
+,	O
+and	O
+a	O
+b.com	other-educationaldegree
+ll.b	other-educationaldegree
+(	O
+hons	O
+.	O
+)	O
+
+evidence	O
+also	O
+exists	O
+of	O
+german	product-weapon
+panzer	product-weapon
+i	product-weapon
+-based	O
+command	O
+vehicles	O
+re-armed	O
+with	O
+soviet	product-weapon
+20mm	product-weapon
+shvak	product-weapon
+cannons	product-weapon
+.	O
+
+third-line	O
+medications	O
+include	O
+phenytoin	other-medical
+for	O
+children	O
+and	O
+phenobarbital	other-medical
+for	O
+adults	O
+.	O
+

@@ -1,0 +1,66 @@
+lake	location-bodiesofwater
+kariba	location-bodiesofwater
+is	O
+the	O
+world	O
+'s	O
+largest	O
+man-made	O
+lake	O
+and	O
+reservoir	O
+by	O
+volume	O
+.	O
+
+'	O
+fred	art-writtenart
+basset	art-writtenart
+for	art-writtenart
+garden	art-writtenart
+lovers	art-writtenart
+'	O
+was	O
+published	O
+in	O
+september	O
+2009	O
+.	O
+
+danny	person-athlete
+sullivan	person-athlete
+blew	O
+an	O
+engine	O
+.	O
+
+ferrara	person-actor
+also	O
+tours	O
+often	O
+,	O
+performing	O
+stand-up	O
+at	O
+the	O
+top	O
+clubs	O
+around	O
+the	O
+country	O
+.	O
+
+the	O
+entrance	O
+to	O
+the	O
+théâtre	building-theater
+des	building-theater
+bouffes-parisiens	building-theater
+is	O
+located	O
+in	O
+the	O
+passage	O
+.	O
+

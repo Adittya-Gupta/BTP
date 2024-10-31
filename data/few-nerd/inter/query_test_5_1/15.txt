@@ -1,0 +1,61 @@
+it	O
+hosted	O
+3	O
+games	O
+for	O
+the	O
+1989–1992	O
+rugby	event-sportsevent
+league	event-sportsevent
+world	event-sportsevent
+cup	event-sportsevent
+.	O
+
+from	O
+1978	O
+he	O
+was	O
+an	O
+artistic	O
+advisor	O
+and	O
+director	O
+at	O
+nationaltheatret	building-theater
+.	O
+
+papyrus	art-writtenart
+oxyrhynchus	art-writtenart
+15	art-writtenart
+(	O
+p.	O
+oxy	O
+.	O
+
+he	O
+is	O
+voiced	O
+by	O
+mizuki	person-actor
+saitoh	person-actor
+in	O
+the	O
+japanese	O
+version	O
+and	O
+by	O
+eric	person-actor
+stuart	person-actor
+in	O
+the	O
+english	O
+dub	O
+.	O
+
+bachelor	other-educationaldegree
+of	other-educationaldegree
+development	other-educationaldegree
+studies	other-educationaldegree
+5	O
+.	O
+

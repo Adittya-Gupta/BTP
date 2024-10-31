@@ -1,0 +1,57 @@
+it	O
+connects	O
+repulse	location-other
+bay	location-other
+to	O
+the	O
+west	O
+with	O
+foxe	location-bodiesofwater
+basin	location-bodiesofwater
+to	O
+the	O
+east	O
+.	O
+
+vomiting	other-medical
+agents	other-medical
+are	O
+chemical	O
+weapon	O
+agents	O
+causing	O
+vomiting	O
+.	O
+
+they	O
+were	O
+led	O
+by	O
+second	O
+year	O
+head	O
+coach	O
+bret	person-athlete
+bielema	person-athlete
+.	O
+
+he	O
+never	O
+recovered	O
+from	O
+the	O
+surgery	O
+and	O
+died	O
+at	O
+peter	building-hospital
+bent	building-hospital
+brigham	building-hospital
+hospital	building-hospital
+on	O
+may	O
+8	O
+,	O
+1924	O
+.	O
+

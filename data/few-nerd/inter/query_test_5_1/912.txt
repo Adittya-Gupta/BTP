@@ -1,0 +1,60 @@
+atlantic	other-livingthing
+cod	other-livingthing
+practice	O
+some	O
+cannibalism	O
+.	O
+
+this	O
+was	O
+not	O
+filmed	O
+due	O
+to	O
+nicholas	person-actor
+courtney	person-actor
+being	O
+unavailable	O
+.	O
+
+a	O
+new	O
+theatre	O
+to	O
+replace	O
+the	O
+astoria	building-theater
+is	O
+planned	O
+.	O
+
+the	O
+``	O
+madala	art-writtenart
+panji	art-writtenart
+``	O
+dates	O
+from	O
+the	O
+12th	O
+century	O
+.	O
+
+this	O
+is	O
+likely	O
+due	O
+to	O
+venlafaxine	other-medical
+'s	O
+relatively	O
+short	O
+half-life	O
+and	O
+therefore	O
+rapid	O
+clearance	O
+upon	O
+discontinuation	O
+.	O
+

@@ -1,0 +1,65 @@
+working	O
+titles	O
+for	O
+this	O
+story	O
+included	O
+``	O
+peepshow	art-writtenart
+``	O
+.	O
+
+the	O
+mongolian	product-weapon
+tanks	product-weapon
+were	O
+presented	O
+on	O
+17	O
+january	O
+1943	O
+.	O
+
+giunti	person-athlete
+sustained	O
+injuries	O
+from	O
+which	O
+he	O
+would	O
+not	O
+survive	O
+.	O
+
+the	O
+2011	O
+mercedescup	event-sportsevent
+was	O
+a	O
+men	O
+'s	O
+tennis	O
+tournament	O
+played	O
+on	O
+outdoor	O
+clay	O
+courts	O
+.	O
+
+the	O
+springfield	O
+plateau	O
+drains	O
+through	O
+wide	O
+,	O
+mature	O
+streams	O
+ultimately	O
+feeding	O
+the	O
+white	location-bodiesofwater
+river	location-bodiesofwater
+.	O
+

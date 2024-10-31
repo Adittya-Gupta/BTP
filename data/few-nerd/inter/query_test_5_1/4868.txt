@@ -1,0 +1,61 @@
+increasing	O
+prescription	O
+of	O
+opioids	other-medical
+fueled	O
+a	O
+growing	O
+black	O
+market	O
+for	O
+heroin	other-medical
+.	O
+
+•	O
+t.	location-other
+a.	location-other
+scambos	location-other
+,	O
+j	O
+.	O
+
+according	O
+to	O
+asser	O
+'s	O
+``	O
+life	art-writtenart
+of	art-writtenart
+king	art-writtenart
+alfred	art-writtenart
+``	O
+:	O
+
+memorial	building-hospital
+hermann–texas	building-hospital
+medical	building-hospital
+center	building-hospital
+is	O
+a	O
+nationally	O
+ranked	O
+hospital	O
+at	O
+the	O
+texas	building-hospital
+medical	building-hospital
+center	building-hospital
+.	O
+
+and	O
+then	O
+as	O
+a	O
+full-featured	O
+except	O
+to	O
+bobino	building-theater
+and	O
+gaumont-palace	building-theater
+.	O
+

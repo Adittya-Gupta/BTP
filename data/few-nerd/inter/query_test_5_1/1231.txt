@@ -1,0 +1,66 @@
+honma	O
+beat	O
+naoki	person-athlete
+sano	person-athlete
+by	O
+tko	person-athlete
+.	O
+
+the	O
+ministry	organization-government/governmentagency
+of	organization-government/governmentagency
+home	organization-government/governmentagency
+affairs	organization-government/governmentagency
+has	O
+given	O
+it	O
+a	O
+geographical	O
+code	O
+of	O
+260896	O
+.	O
+
+the	O
+peak	O
+frequencies	O
+of	O
+``	O
+kogia	other-livingthing
+``	O
+are	O
+generally	O
+less	O
+than	O
+130	O
+khz	O
+.	O
+
+students	O
+may	O
+receive	O
+a	O
+master	other-educationaldegree
+of	other-educationaldegree
+divinity	other-educationaldegree
+(	O
+m.div	O
+.	O
+
+according	O
+to	O
+``	O
+the	art-writtenart
+late	art-writtenart
+medieval	art-writtenart
+balkans	art-writtenart
+``	O
+(	O
+1987	O
+)	O
+by	O
+john	O
+v.	O
+a	O
+.	O
+

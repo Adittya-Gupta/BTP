@@ -1,0 +1,67 @@
+she	O
+won	O
+once	O
+on	O
+the	O
+futures	event-sportsevent
+tour	event-sportsevent
+in	O
+2001	O
+.	O
+
+the	O
+mcddi	organization-politicalparty
+failed	O
+to	O
+win	O
+any	O
+seats	O
+in	O
+the	O
+election	O
+.	O
+
+bachelor	other-educationaldegree
+of	other-educationaldegree
+development	other-educationaldegree
+studies	other-educationaldegree
+5	O
+.	O
+
+it	O
+is	O
+estimated	O
+to	O
+have	O
+diverged	O
+together	O
+with	O
+the	O
+leopard	other-livingthing
+cat	other-livingthing
+between	O
+and	O
+.	O
+
+they	O
+are	O
+scroll	O
+marked	O
+:	O
+``	O
+launcher	O
+,	O
+grenade	product-weapon
+m203	product-weapon
+40mm	O
+''	O
+,	O
+even	O
+though	O
+they	O
+are	O
+actually	O
+37mm	O
+devices	O
+.	O
+

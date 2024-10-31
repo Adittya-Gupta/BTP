@@ -1,0 +1,55 @@
+the	O
+opening	O
+and	O
+closing	O
+films	O
+were	O
+shown	O
+at	O
+the	O
+scala	building-theater
+theater	building-theater
+in	O
+siam	location-other
+square	location-other
+.	O
+
+the	O
+winner	O
+of	O
+the	O
+championship	O
+plays	O
+in	O
+cape	event-sportsevent
+verdean	event-sportsevent
+football	event-sportsevent
+championships	event-sportsevent
+of	O
+each	O
+season	O
+.	O
+
+dennis	O
+'	O
+``	O
+the	O
+songs	art-music
+of	art-music
+a	art-music
+sentimental	art-music
+bloke	art-music
+``	O
+.	O
+
+diplomacy	O
+between	O
+rome	organization-government/governmentagency
+and	O
+the	O
+vandal	organization-government/governmentagency
+kingdom	organization-government/governmentagency
+broke	O
+down	O
+.	O
+

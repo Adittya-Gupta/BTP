@@ -1,0 +1,63 @@
+the	O
+summit	O
+otf	O
+h0nister	Location-OtherLOC
+pass	Location-OtherLOC
+provides	O
+a	O
+convenient	O
+high	O
+level	O
+start	O
+.	O
+
+isoprenaline	Medical-Medication/Vaccine
+(	O
+isuprel	O
+)	O
+for	O
+treatment	O
+of	O
+mild	O
+or	O
+transient	O
+episodes	O
+of	O
+heart	O
+block	O
+
+isoprenaline	Medical-Medication/Vaccine
+(	O
+isuprel	O
+)	O
+for	O
+treatment	O
+of	O
+mild	O
+or	O
+transient	O
+episodes	O
+of	O
+heart	O
+block	O
+
+vienna	Location-HumanSettlement
+ljubljana	Location-HumanSettlement
+ptuj	Location-HumanSettlement
+bled	Location-HumanSettlement
+postojna	Location-Facility
+cave	Location-Facility
+piran	Location-HumanSettlement
+koper	Location-HumanSettlement
+graz	Location-HumanSettlement
+
+vienna	Location-HumanSettlement
+ljubljana	Location-HumanSettlement
+ptuj	Location-HumanSettlement
+bled	Location-HumanSettlement
+postojna	Location-Facility
+cave	Location-Facility
+piran	Location-HumanSettlement
+koper	Location-HumanSettlement
+graz	Location-HumanSettlement
+

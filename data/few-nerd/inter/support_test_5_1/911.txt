@@ -1,0 +1,55 @@
+in	O
+2012	O
+,	O
+moore	person-athlete
+finished	O
+3rd	O
+in	O
+the	O
+2012	O
+asp	event-sportsevent
+world	event-sportsevent
+tour	event-sportsevent
+,	O
+failing	O
+to	O
+win	O
+any	O
+asp	event-sportsevent
+world	O
+tour	O
+events	O
+,	O
+coming	O
+runner-up	O
+in	O
+two	O
+events	O
+.	O
+
+carfecillin	other-medical
+is	O
+a	O
+beta-lactam	other-medical
+antibiotic	other-medical
+.	O
+
+it	O
+was	O
+a	O
+splinter	O
+group	O
+of	O
+bharatiya	organization-politicalparty
+kranti	organization-politicalparty
+dal	organization-politicalparty
+.	O
+
+bachelor	other-educationaldegree
+of	other-educationaldegree
+music	other-educationaldegree
+(	O
+b.mus	other-educationaldegree
+.	O
+)	O
+

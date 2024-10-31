@@ -1,0 +1,63 @@
+herut	organization-politicalparty
+'s	O
+political	O
+expectations	O
+were	O
+high	O
+as	O
+the	O
+first	O
+election	O
+approached	O
+in	O
+1949	O
+.	O
+
+the	O
+graduate	other-educationaldegree
+of	other-educationaldegree
+pharmacy	other-educationaldegree
+(	O
+ph.g	other-educationaldegree
+.	other-educationaldegree
+)	O
+
+the	O
+first	O
+manuscript	O
+(	O
+codex	art-writtenart
+a	art-writtenart
+)	O
+is	O
+incomplete	O
+.	O
+
+the	O
+same	O
+year	O
+,	O
+the	O
+theatre	O
+became	O
+the	O
+“	O
+théâtre	building-theater
+impérial	building-theater
+”	O
+.	O
+
+light	O
+tanks	O
+in	O
+tank	O
+regiments	O
+were	O
+being	O
+replaced	O
+by	O
+t-34	product-weapon
+medium	O
+tanks	O
+.	O
+

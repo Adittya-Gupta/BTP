@@ -1,0 +1,63 @@
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+he	O
+is	O
+perhaps	O
+best	O
+known	O
+for	O
+his	O
+work	O
+on	O
+the	O
+animated	O
+show	O
+bro'town	CreativeWorks-VisualWork
+.	O
+
+isoprenaline	Medical-Medication/Vaccine
+(	O
+isuprel	O
+)	O
+for	O
+treatment	O
+of	O
+mild	O
+or	O
+transient	O
+episodes	O
+of	O
+heart	O
+block	O
+
+isoprenaline	Medical-Medication/Vaccine
+(	O
+isuprel	O
+)	O
+for	O
+treatment	O
+of	O
+mild	O
+or	O
+transient	O
+episodes	O
+of	O
+heart	O
+block	O
+

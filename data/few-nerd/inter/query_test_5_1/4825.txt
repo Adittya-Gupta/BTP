@@ -1,0 +1,60 @@
+bachelor	other-educationaldegree
+of	other-educationaldegree
+information	other-educationaldegree
+technology	other-educationaldegree
+3	O
+.	O
+
+john	building-hospital
+peter	building-hospital
+smith	building-hospital
+hospital	building-hospital
+provides	O
+emergency	O
+services	O
+and	O
+trauma	O
+care	O
+.	O
+
+she	O
+was	O
+the	O
+resident	O
+director	O
+for	O
+the	O
+pittsburgh	building-theater
+civic	building-theater
+light	building-theater
+opera	building-theater
+from	O
+1981	O
+to	O
+1989	O
+.	O
+
+the	O
+agusan	location-bodiesofwater
+river	location-bodiesofwater
+is	O
+its	O
+main	O
+tributary	O
+.	O
+
+also	O
+with	O
+this	O
+generation	O
+,	O
+each	O
+model	O
+of	O
+taurus	product-car
+received	O
+different	O
+exterior	O
+trim	O
+.	O
+

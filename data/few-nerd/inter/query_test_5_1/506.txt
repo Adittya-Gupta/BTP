@@ -1,0 +1,67 @@
+schweinsteiger	person-athlete
+started	O
+his	O
+coaching	O
+career	O
+right	O
+after	O
+his	O
+retirement	O
+from	O
+professional	O
+football	O
+.	O
+
+each	O
+fall	O
+the	building-theater
+honors	building-theater
+theatre	building-theater
+ensemble	O
+(	O
+known	O
+as	O
+the	building-theater
+pinecrest	building-theater
+players	building-theater
+)	O
+competes	O
+in	O
+regional	O
+theatre	O
+competition	O
+.	O
+
+``	O
+eslenes	O
+''	O
+was	O
+nowhere	O
+near	O
+mission	location-other
+san	location-other
+carlos	location-other
+.	O
+
+it	O
+hosts	O
+,	O
+amongst	O
+other	O
+animals	O
+,	O
+the	O
+siberian	other-livingthing
+tiger	other-livingthing
+.	O
+
+two	O
+lamborghini	product-car
+murcielagos	product-car
+were	O
+featured	O
+in	O
+the	O
+video	O
+.	O
+

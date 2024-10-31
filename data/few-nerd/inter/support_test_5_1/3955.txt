@@ -1,0 +1,62 @@
+most	O
+subjects	O
+recovered	O
+after	O
+stopping	O
+treatment	O
+and	O
+taking	O
+potassium	other-medical
+supplements	other-medical
+.	O
+
+potentilla	other-livingthing
+recta	other-livingthing
+.	O
+
+on	O
+3	O
+october	O
+1990	O
+he	O
+was	O
+one	O
+of	O
+144	O
+nominated	O
+volkskammer	organization-politicalparty
+members	O
+who	O
+moved	O
+across	O
+to	O
+the	O
+following	O
+reunification	O
+.	O
+
+lyø	location-other
+village	location-other
+is	O
+located	O
+in	O
+the	O
+centre	O
+of	O
+the	O
+island	O
+.	O
+
+this	O
+was	O
+the	O
+fourth	O
+year	O
+of	O
+a	O
+major	event-election
+league	event-election
+baseball	event-election
+draft	event-election
+.	O
+

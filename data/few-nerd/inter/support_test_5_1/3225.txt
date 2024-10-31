@@ -1,0 +1,52 @@
+he	O
+was	O
+chairmen	O
+of	O
+the	O
+queens	O
+branch	O
+of	O
+the	O
+liberal	organization-politicalparty
+party	organization-politicalparty
+from	O
+1945-1959	O
+.	O
+
+maerl	other-livingthing
+is	O
+also	O
+present	O
+in	O
+the	O
+south	location-other
+arran	location-other
+mpa	location-other
+.	O
+
+the	O
+ira	organization-government/governmentagency
+gunmen	O
+returned	O
+fire	O
+and	O
+managed	O
+to	O
+escape	O
+.	O
+
+a	O
+new	O
+two-door	O
+coupé	O
+was	O
+introduced	O
+in	O
+1976	O
+to	O
+replace	O
+the	O
+galant	product-car
+gto	product-car
+.	O
+

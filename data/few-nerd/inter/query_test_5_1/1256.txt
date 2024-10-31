@@ -1,0 +1,60 @@
+the	O
+mclc	product-weapon
+kit	O
+can	O
+fire	O
+three	O
+linear	O
+demolition	O
+charges	O
+to	O
+breach	O
+a	O
+lane	O
+through	O
+a	O
+minefield	O
+.	O
+
+the	O
+line	O
+had	O
+six	O
+locomotives	O
+,	O
+including	O
+a	O
+hudswell	product-car
+clarke	product-car
+0-4-0st	product-car
+no.34	product-car
+.	O
+
+its	O
+common	O
+name	O
+means	O
+``	O
+southern	O
+donkey	other-livingthing
+``	O
+.	O
+
+herb	person-athlete
+thomas	person-athlete
+won	O
+the	O
+pole	O
+.	O
+
+he	O
+was	O
+the	O
+paternal	O
+grandfather	O
+of	O
+actress	O
+rachel	person-actor
+miner	person-actor
+.	O
+

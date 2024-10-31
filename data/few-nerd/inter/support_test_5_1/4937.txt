@@ -1,0 +1,65 @@
+with	O
+the	O
+invention	O
+of	O
+the	O
+tank	product-weapon
+,	O
+the	O
+infantry	O
+required	O
+a	O
+weapon	O
+to	O
+counter	O
+the	O
+threat	O
+.	O
+
+other	O
+flavors	O
+include	O
+peppermint	other-livingthing
+and	O
+coffee	O
+.	O
+
+josé	person-athlete
+luis	person-athlete
+clerc	person-athlete
+was	O
+the	O
+defending	O
+champion	O
+.	O
+
+he	O
+remained	O
+the	O
+constituency	O
+'s	O
+mp	O
+until	O
+the	O
+seat	O
+was	O
+abolished	O
+for	O
+the	event-election
+1918	event-election
+general	event-election
+election	event-election
+.	O
+
+kithara	O
+appears	O
+in	O
+the	O
+bible	art-writtenart
+four	O
+times	O
+(	O
+1	O
+cor	O
+.	O
+

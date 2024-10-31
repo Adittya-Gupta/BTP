@@ -1,0 +1,61 @@
+however	O
+,	O
+the	O
+1906	O
+jewish	art-writtenart
+encyclopedia	art-writtenart
+gives	O
+the	O
+more	O
+common	O
+date	O
+of	O
+``	O
+971	O
+to	O
+931	O
+bce	O
+''	O
+.	O
+
+potentilla	other-livingthing
+recta	other-livingthing
+.	O
+
+hamilton	person-athlete
+moved	O
+to	O
+the	O
+no	O
+.	O
+
+other	O
+theology	O
+degree	O
+titles	O
+used	O
+are	O
+master	other-educationaldegree
+of	other-educationaldegree
+theology	other-educationaldegree
+(	O
+th.m	O
+.	O
+
+themed	O
+around	O
+the	O
+upcoming	O
+october	O
+1964	O
+uk	event-election
+general	event-election
+election	event-election
+&	O
+lt	O
+;	O
+br	O
+&	O
+gt	O
+;	O
+

@@ -1,0 +1,67 @@
+the	O
+film	O
+was	O
+produced	O
+by	O
+and	O
+stars	O
+joey	person-actor
+travolta	person-actor
+.	O
+
+rio	O
+grande	O
+locomotives	O
+were	O
+re-lettered	O
+for	O
+fictional	O
+sierra	location-bodiesofwater
+pacific	location-bodiesofwater
+.	O
+
+the	O
+highest	O
+selling	O
+roadster	O
+is	O
+the	O
+mazda	product-car
+mx-5	product-car
+,	O
+which	O
+was	O
+introduced	O
+in	O
+1989	O
+.	O
+
+)	O
+,	O
+master	other-educationaldegree
+of	other-educationaldegree
+theological	other-educationaldegree
+studies	other-educationaldegree
+(	O
+m.t.s	O
+.	O
+
+he	O
+died	O
+at	O
+the	O
+age	O
+of	O
+93	O
+in	O
+the	O
+american	building-hospital
+hospital	building-hospital
+of	building-hospital
+paris	building-hospital
+on	O
+7	O
+may	O
+2017	O
+.	O
+

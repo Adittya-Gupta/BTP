@@ -1,0 +1,56 @@
+he	O
+then	O
+faced	O
+mcenroe	person-athlete
+again	O
+in	O
+the	O
+final	O
+of	O
+the	O
+us	event-sportsevent
+open	event-sportsevent
+,	O
+winning	O
+in	O
+straight	O
+sets	O
+.	O
+
+in	O
+2016	O
+,	O
+she	O
+foaled	O
+omaha	other-livingthing
+beach	other-livingthing
+,	O
+whose	O
+sire	O
+is	O
+war	other-livingthing
+front	other-livingthing
+.	O
+
+the	O
+spö	organization-politicalparty
+formed	O
+a	O
+coalition	O
+with	O
+the	O
+greens	organization-politicalparty
+.	O
+
+the	O
+ph.d	other-educationaldegree
+.	other-educationaldegree
+programs	O
+last	O
+between	O
+three	O
+and	O
+five	O
+years	O
+.	O
+

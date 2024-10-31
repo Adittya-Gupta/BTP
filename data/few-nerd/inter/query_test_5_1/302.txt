@@ -1,0 +1,58 @@
+nancy	person-actor
+yuen	person-actor
+again	O
+reprised	O
+the	O
+role	O
+.	O
+
+the	O
+m230	product-weapon
+is	O
+mounted	O
+on	O
+the	O
+chin	O
+turret	O
+.	O
+
+the	O
+california	event-election
+assembly	event-election
+republican	event-election
+caucus	event-election
+members	O
+are	O
+listed	O
+at	O
+.	O
+
+they	O
+are	O
+also	O
+the	O
+current	O
+champions	O
+of	O
+icc	event-sportsevent
+champions	event-sportsevent
+trophy	event-sportsevent
+.	O
+
+albendazole	other-medical
+was	O
+shown	O
+to	O
+be	O
+highly	O
+effective	O
+and	O
+is	O
+advocated	O
+as	O
+the	O
+drug	O
+of	O
+choice	O
+.	O
+

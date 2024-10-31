@@ -1,0 +1,46 @@
+christopher	person-athlete
+rouse	person-athlete
+dedicated	O
+his	O
+string	O
+quartet	O
+no	O
+.	O
+
+whitetail	other-livingthing
+deer	other-livingthing
+are	O
+very	O
+common	O
+within	O
+the	O
+park	O
+.	O
+
+m.phil	other-educationaldegree
+.	O
+
+15.	O
+,	O
+the	art-writtenart
+glasgow	art-writtenart
+herald	art-writtenart
+,	O
+10	O
+june	O
+1920	O
+,	O
+pg	O
+.	O
+
+the	O
+toyota	product-car
+coaster	product-car
+is	O
+used	O
+for	O
+motor	O
+home	O
+conversions	O
+.	O
+

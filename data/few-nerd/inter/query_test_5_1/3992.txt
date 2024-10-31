@@ -1,0 +1,67 @@
+dennis	person-actor
+hopper	person-actor
+has	O
+a	O
+short	O
+role	O
+at	O
+the	O
+beginning	O
+of	O
+the	O
+film	O
+.	O
+
+the	O
+1969	O
+australian	event-sportsevent
+open	event-sportsevent
+was	O
+the	O
+first	O
+held	O
+under	O
+the	O
+name	O
+australian	event-sportsevent
+open	event-sportsevent
+.	O
+
+it	O
+is	O
+found	O
+in	O
+the	O
+spercheios	location-bodiesofwater
+river	location-bodiesofwater
+drainage	O
+basin	O
+.	O
+
+a	O
+revised	O
+version	O
+was	O
+first	O
+performed	O
+at	O
+the	O
+nationaltheater	building-theater
+mannheim	building-theater
+in	O
+1928	O
+.	O
+
+he	O
+died	O
+in	O
+1991	O
+in	O
+canberra	building-hospital
+hospital	building-hospital
+after	O
+a	O
+heart	O
+attack	O
+.	O
+

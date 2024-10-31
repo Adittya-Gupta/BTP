@@ -1,0 +1,67 @@
+on	O
+march	O
+16	O
+,	O
+2010	O
+,	O
+she	O
+was	O
+named	O
+sakari	other-livingthing
+,	O
+which	O
+is	O
+an	O
+inuit	O
+word	O
+for	O
+``	O
+sweet	O
+''	O
+.	O
+
+this	O
+icc	event-sportsevent
+world	event-sportsevent
+twenty20	event-sportsevent
+took	O
+place	O
+only	O
+10	O
+months	O
+after	O
+the	O
+last	O
+one	O
+.	O
+
+some	O
+upanisads	art-writtenart
+speak	O
+of	O
+'darkness	O
+'	O
+instead	O
+of	O
+hell	O
+.	O
+
+the	O
+great	location-bodiesofwater
+belt	location-bodiesofwater
+is	O
+long	O
+and	O
+wide	O
+.	O
+
+he	O
+received	O
+master	other-educationaldegree
+of	other-educationaldegree
+engineering	other-educationaldegree
+(	O
+m.e	other-educationaldegree
+.	O
+)	O
+

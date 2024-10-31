@@ -1,0 +1,61 @@
+in	O
+the	O
+film	O
+james	person-actor
+caan	person-actor
+stars	O
+as	O
+lt	O
+.	O
+
+(	O
+it	event-election
+'s	event-election
+time	event-election
+!	O
+)	O
+
+the	O
+park	O
+is	O
+developed	O
+around	O
+two	O
+lakes	O
+,	O
+lake	location-bodiesofwater
+maggiore	location-bodiesofwater
+and	O
+minor	location-bodiesofwater
+lake	location-bodiesofwater
+and	O
+is	O
+fully	O
+equipped	O
+with	O
+recreational	O
+,	O
+leisure	O
+and	O
+sporting	O
+facilities	O
+.	O
+
+dubai	building-theater
+opera	building-theater
+has	O
+flat	O
+floor	O
+capacity	O
+of	O
+.	O
+
+he	O
+graduated	O
+in	O
+1989	O
+with	O
+a	O
+b.a	other-educationaldegree
+.	O
+

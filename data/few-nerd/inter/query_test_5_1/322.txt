@@ -1,0 +1,62 @@
+lake	location-other
+ouachita	location-other
+has	O
+over	O
+of	O
+shoreline	O
+and	O
+over	O
+of	O
+water	O
+.	O
+
+his	O
+debut	O
+at	O
+the	O
+royal	building-theater
+opera	building-theater
+house	building-theater
+was	O
+in	O
+1968	O
+.	O
+
+swoosie	person-actor
+kurtz	person-actor
+(	O
+;	O
+born	O
+september	O
+6	O
+,	O
+1944	O
+)	O
+is	O
+an	O
+american	O
+actress	O
+.	O
+
+)	O
+,	O
+master	other-educationaldegree
+of	O
+science	O
+(	O
+m.s	other-educationaldegree
+.	other-educationaldegree
+)	O
+
+the	O
+party	O
+also	O
+contested	O
+the	O
+u.s.	event-election
+presidential	event-election
+election	event-election
+,	O
+1976	O
+.	O
+

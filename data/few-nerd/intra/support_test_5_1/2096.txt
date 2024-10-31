@@ -1,0 +1,54 @@
+she	O
+is	O
+told	O
+that	O
+her	O
+chemothearpy	Medical-MedicalProcedure
+is	O
+not	O
+working	O
+and	O
+she	O
+decides	O
+to	O
+stop	O
+the	O
+treatment	O
+.	O
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+

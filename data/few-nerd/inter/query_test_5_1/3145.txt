@@ -1,0 +1,66 @@
+it	O
+is	O
+a	O
+left	O
+tributary	O
+of	O
+the	O
+vesdre	location-bodiesofwater
+.	O
+
+the	O
+pods	O
+were	O
+covered	O
+with	O
+barnacles	other-livingthing
+,	O
+but	O
+the	O
+film	O
+inside	O
+was	O
+undamaged	O
+.	O
+
+to	O
+the	O
+east	O
+is	O
+the	O
+smaller	O
+town	O
+of	O
+jerryville	location-other
+.	O
+
+the	O
+match	O
+was	O
+announced	O
+the	O
+following	O
+week	O
+to	O
+be	O
+scheduled	O
+for	O
+wrestlemania	event-sportsevent
+.	O
+
+``	O
+irl	art-writtenart
+``	O
+received	O
+critical	O
+acclaim	O
+and	O
+was	O
+included	O
+on	O
+best-of-the-year	O
+lists	O
+for	O
+2016	O
+.	O
+

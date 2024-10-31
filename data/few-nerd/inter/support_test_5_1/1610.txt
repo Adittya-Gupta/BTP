@@ -1,0 +1,67 @@
+several	O
+riverfront	O
+embankments	O
+have	O
+been	O
+built	O
+on	O
+the	O
+sabarmati	location-bodiesofwater
+river	location-bodiesofwater
+.	O
+
+goldsmith	person-athlete
+'s	O
+final	O
+game	O
+in	O
+the	O
+pro	O
+ranks	O
+was	O
+on	O
+september	O
+10	O
+,	O
+1884	O
+.	O
+
+she	O
+was	O
+allocated	O
+to	O
+the	O
+soviet	organization-government/governmentagency
+union	organization-government/governmentagency
+in	O
+1946	O
+and	O
+served	O
+until	O
+scrapped	O
+in	O
+1974	O
+.	O
+
+it	O
+is	O
+both	O
+a	O
+cranial	O
+and	O
+a	O
+focal	O
+dystonia	other-medical
+.	O
+
+the	O
+desert	product-weapon
+eagle	product-weapon
+is	O
+fed	O
+with	O
+a	O
+detachable	O
+magazine	O
+.	O
+

@@ -1,0 +1,67 @@
+the	O
+kmt	organization-politicalparty
+won	O
+43.94	O
+%	O
+of	O
+the	O
+votes	O
+,	O
+while	O
+the	O
+dpp	organization-politicalparty
+won	O
+24.42	O
+%	O
+.	O
+
+the	O
+club	O
+plays	O
+in	O
+the	O
+first	O
+division	O
+lnb	event-sportsevent
+pro	event-sportsevent
+a	event-sportsevent
+.	O
+
+other	O
+crops	O
+cultivated	O
+include	O
+:	O
+coconut	other-livingthing
+trees	other-livingthing
+and	O
+nutmeg	other-livingthing
+.	O
+
+prototypes	O
+were	O
+tested	O
+based	O
+on	O
+the	O
+t-28	product-weapon
+medium	product-weapon
+tank	product-weapon
+in	O
+1940	O
+.	O
+
+the	O
+new	event-election
+york	event-election
+state	event-election
+election	event-election
+,	O
+1889	O
+was	O
+held	O
+on	O
+november	O
+5	O
+.	O
+

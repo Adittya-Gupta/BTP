@@ -1,0 +1,66 @@
+in	O
+the	O
+summer	O
+of	O
+2004	O
+,	O
+cheyne	person-athlete
+competed	O
+in	O
+a	O
+reality	O
+show	O
+entitled	O
+``	O
+''	O
+.	O
+
+the	O
+california	event-election
+assembly	event-election
+democratic	event-election
+caucus	event-election
+members	O
+are	O
+listed	O
+at	O
+.	O
+
+touched	O
+by	O
+her	O
+sincerity	O
+,	O
+jung	person-actor
+accepted	O
+the	O
+offer	O
+.	O
+
+it	O
+has	O
+sailed	O
+westwards	O
+to	O
+the	O
+eastern	location-bodiesofwater
+mediterranean	location-bodiesofwater
+.	O
+
+and	O
+ph.d	other-educationaldegree
+.	other-educationaldegree
+studies	O
+in	O
+theology	O
+and	O
+a	O
+master	other-educationaldegree
+of	O
+theological	O
+studies	O
+for	O
+non-traditional	O
+students	O
+.	O
+

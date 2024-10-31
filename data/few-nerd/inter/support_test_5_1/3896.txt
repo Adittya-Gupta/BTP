@@ -1,0 +1,64 @@
+the	O
+brook	O
+joins	O
+the	O
+river	O
+at	O
+the	O
+yarrow	location-other
+bridge	location-other
+prior	O
+to	O
+entering	O
+duxbury	location-other
+woods	location-other
+.	O
+
+``	O
+ca	art-music
+n't	art-music
+stop	art-music
+the	art-music
+feeling	art-music
+!	O
+''	O
+
+thermarces	other-livingthing
+is	O
+a	O
+genus	O
+of	O
+eelpouts	other-livingthing
+(	O
+family	O
+zoarcidae	O
+)	O
+.	O
+
+these	O
+are	O
+'	O
+,	O
+'	O
+and	O
+``	O
+the	O
+art	art-writtenart
+of	art-writtenart
+bioshock	art-writtenart
+infinite	art-writtenart
+``	O
+.	O
+
+the	O
+london	building-theater
+astoria	building-theater
+theatre	building-theater
+was	O
+on	O
+the	O
+south	O
+west	O
+side	O
+.	O
+

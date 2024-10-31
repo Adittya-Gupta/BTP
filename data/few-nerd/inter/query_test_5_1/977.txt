@@ -1,0 +1,67 @@
+``	O
+pitkinense	other-livingthing
+``	O
+is	O
+found	O
+in	O
+the	O
+narrow	O
+elevation	O
+range	O
+of	O
+above	O
+mean	O
+sea	O
+level	O
+.	O
+
+in	O
+1964	O
+,	O
+actors	building-theater
+theatre	building-theater
+of	building-theater
+louisville	building-theater
+was	O
+founded	O
+.	O
+
+the	O
+cabin	O
+was	O
+primarily	O
+used	O
+by	O
+rangers	O
+on	O
+patrol	O
+from	O
+the	O
+belly	location-bodiesofwater
+river	location-bodiesofwater
+ranger	O
+station	O
+.	O
+
+6.	O
+,	O
+the	O
+glasgow	art-writtenart
+herald	art-writtenart
+,	O
+23	O
+may	O
+1922	O
+,	O
+pg	O
+.	O
+
+the	O
+injured	O
+were	O
+taken	O
+to	O
+willesborough	building-hospital
+hospital	building-hospital
+.	O
+

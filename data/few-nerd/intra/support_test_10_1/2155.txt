@@ -1,0 +1,63 @@
+before	O
+the	O
+single	O
+release	O
+the	O
+song	O
+appeared	O
+in	O
+the	O
+soundtrack	O
+of	O
+the	O
+videogame	O
+fifa	CreativeWorks-Software
+166	CreativeWorks-Software
+.	O
+
+vienna	Location-HumanSettlement
+ljubljana	Location-HumanSettlement
+ptuj	Location-HumanSettlement
+bled	Location-HumanSettlement
+postojna	Location-Facility
+cave	Location-Facility
+piran	Location-HumanSettlement
+koper	Location-HumanSettlement
+graz	Location-HumanSettlement
+
+vienna	Location-HumanSettlement
+ljubljana	Location-HumanSettlement
+ptuj	Location-HumanSettlement
+bled	Location-HumanSettlement
+postojna	Location-Facility
+cave	Location-Facility
+piran	Location-HumanSettlement
+koper	Location-HumanSettlement
+graz	Location-HumanSettlement
+
+the	O
+summit	O
+otf	O
+h0nister	Location-OtherLOC
+pass	Location-OtherLOC
+provides	O
+a	O
+convenient	O
+high	O
+level	O
+start	O
+.	O
+
+the	O
+summit	O
+otf	O
+h0nister	Location-OtherLOC
+pass	Location-OtherLOC
+provides	O
+a	O
+convenient	O
+high	O
+level	O
+start	O
+.	O
+

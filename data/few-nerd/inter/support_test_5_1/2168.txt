@@ -1,0 +1,61 @@
+vuckovich	person-athlete
+then	O
+struck	O
+out	O
+richie	person-athlete
+zisk	person-athlete
+.	O
+
+it	O
+is	O
+the	O
+third	O
+western	O
+film	O
+in	O
+which	O
+estevez	person-actor
+stars	O
+.	O
+
+he	O
+earned	O
+his	O
+doctor	other-educationaldegree
+of	other-educationaldegree
+canon	other-educationaldegree
+law	other-educationaldegree
+(	O
+j.c.d	O
+.	O
+)	O
+
+in	O
+the	art-writtenart
+railway	art-writtenart
+series	art-writtenart
+by	O
+rev	O
+.	O
+
+she	O
+was	O
+rushed	O
+to	O
+the	O
+johannesburg	building-hospital
+general	building-hospital
+hospital	building-hospital
+,	O
+where	O
+she	O
+underwent	O
+surgery	O
+to	O
+alleviate	O
+pressure	O
+on	O
+her	O
+brain	O
+.	O
+

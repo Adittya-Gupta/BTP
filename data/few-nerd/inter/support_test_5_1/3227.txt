@@ -1,0 +1,67 @@
+(	O
+``	O
+wonder	art-writtenart
+woman	art-writtenart
+``	O
+#	O
+37	O
+)	O
+
+following	O
+eight	O
+previews	O
+,	O
+it	O
+opened	O
+at	O
+the	O
+music	building-theater
+box	building-theater
+theatre	building-theater
+on	O
+april	O
+30	O
+,	O
+1987	O
+and	O
+ran	O
+for	O
+149	O
+performances	O
+.	O
+
+the	O
+monza	product-car
+s	product-car
+used	O
+the	O
+vega	product-car
+hatchback	O
+body	O
+.	O
+
+vasantha	O
+rao	O
+,	O
+dr.	other-educationaldegree
+theol	other-educationaldegree
+.	O
+
+he	O
+worked	O
+with	O
+the	O
+lincoln	O
+project	O
+during	O
+the	O
+campaign	O
+for	O
+the	O
+2020	event-election
+united	event-election
+states	event-election
+presidential	event-election
+election	event-election
+.	O
+

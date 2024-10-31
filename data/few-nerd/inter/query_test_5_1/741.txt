@@ -1,0 +1,66 @@
+he	O
+drove	O
+in	O
+the	O
+world	event-sportsevent
+touring	event-sportsevent
+car	event-sportsevent
+championship	event-sportsevent
+for	O
+bamboo-engineering	O
+in	O
+2012	O
+.	O
+
+it	O
+is	O
+situated	O
+on	O
+the	O
+grounds	O
+of	O
+malacañang	location-other
+golf	location-other
+club	location-other
+.	O
+
+it	O
+is	O
+now	O
+a	O
+national	O
+historic	O
+site	O
+and	O
+managed	O
+by	O
+the	O
+niagara	organization-government/governmentagency
+parks	organization-government/governmentagency
+commission	organization-government/governmentagency
+.	O
+
+in	O
+1992	O
+,	O
+a	O
+long	O
+pedestrian	O
+bridge	O
+linking	O
+ohsu	building-hospital
+hospital	building-hospital
+and	O
+the	O
+va	building-hospital
+hospital	building-hospital
+opened	O
+.	O
+
+bachelor	other-educationaldegree
+of	other-educationaldegree
+business	other-educationaldegree
+administration	other-educationaldegree
+2	O
+.	O
+

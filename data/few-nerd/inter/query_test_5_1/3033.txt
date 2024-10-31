@@ -1,0 +1,57 @@
+chester	location-other
+station	location-other
+may	O
+7	O
+.	O
+
+all	O
+of	O
+these	O
+are	O
+produced	O
+by	O
+the	O
+united	organization-government/governmentagency
+states	organization-government/governmentagency
+mint	organization-government/governmentagency
+.	O
+
+peltodytes	other-livingthing
+callosus	other-livingthing
+is	O
+a	O
+species	O
+of	O
+crawling	O
+water	O
+beetle	O
+in	O
+the	O
+family	O
+haliplidae	O
+.	O
+
+the	O
+tesla	product-car
+model	product-car
+3	product-car
+was	O
+unveiled	O
+on	O
+31	O
+march	O
+2016	O
+.	O
+
+he	O
+was	O
+re-elected	O
+in	O
+the	O
+november	event-election
+2010	event-election
+victorian	event-election
+state	event-election
+election	event-election
+.	O
+

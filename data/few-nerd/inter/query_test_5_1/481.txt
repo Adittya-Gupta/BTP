@@ -1,0 +1,66 @@
+reserves	O
+in	O
+2008	O
+,	O
+jim	organization-government/governmentagency
+thorpe	organization-government/governmentagency
+area	organization-government/governmentagency
+school	organization-government/governmentagency
+district	organization-government/governmentagency
+reported	O
+a	O
+fund	O
+balance	O
+of	O
+$	O
+2,120,455	O
+.	O
+
+thus	O
+,	O
+a	O
+depressed	O
+alpha	O
+angle	O
+could	O
+be	O
+treated	O
+with	O
+cryoprecipitate	other-medical
+.	O
+
+this	O
+left	O
+an	O
+rcl	product-weapon
+surfeit	O
+that	O
+was	O
+sold	O
+off	O
+for	O
+civilian	O
+uses	O
+.	O
+
+crematogaster	other-livingthing
+agnita	other-livingthing
+is	O
+a	O
+species	O
+of	O
+ant	O
+in	O
+tribe	O
+crematogastrini	other-livingthing
+.	O
+
+the	O
+reptar	product-car
+wagon	product-car
+was	O
+no	O
+ordinary	O
+wagon	O
+.	O
+

@@ -1,0 +1,63 @@
+literally	O
+,	O
+it	O
+means	O
+``	O
+chinook	location-other
+(	location-other
+king	location-other
+)	location-other
+salmon	location-other
+river	location-other
+``	O
+.	O
+
+the	O
+nhk	event-sportsevent
+cup	event-sportsevent
+was	O
+his	O
+first	O
+win	O
+in	O
+official	O
+tournament	O
+.	O
+
+he	O
+started	O
+his	O
+acting	O
+career	O
+at	O
+atelje	building-theater
+212	building-theater
+theater	building-theater
+.	O
+
+anti-gm1	other-medical
+antibodies	O
+are	O
+positive	O
+in	O
+around	O
+80	O
+%	O
+of	O
+cases	O
+.	O
+
+the	O
+new	event-election
+york	event-election
+state	event-election
+election	event-election
+,	O
+1883	O
+was	O
+held	O
+on	O
+november	O
+6	O
+.	O
+

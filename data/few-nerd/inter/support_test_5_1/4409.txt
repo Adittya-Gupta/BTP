@@ -1,0 +1,61 @@
+moreover	O
+,	O
+eda	organization-politicalparty
+had	O
+a	O
+very	O
+active	O
+youth	O
+wing	O
+.	O
+
+ponsford	person-athlete
+scored	O
+266	O
+in	O
+his	O
+last	O
+test	O
+.	O
+
+200.	O
+,	O
+the	O
+glasgow	art-writtenart
+herald	art-writtenart
+,	O
+27	O
+may	O
+1913	O
+,	O
+pg	O
+.	O
+
+growth	other-medical
+hormone	other-medical
+deficiency	O
+is	O
+treated	O
+by	O
+replacing	O
+gh	other-medical
+.	O
+
+an	O
+oerlikon	product-weapon
+20	product-weapon
+mm	product-weapon
+cannon	product-weapon
+was	O
+placed	O
+on	O
+the	O
+top	O
+of	O
+the	O
+tower	O
+for	O
+anti-aircraft	O
+purposes	O
+.	O
+

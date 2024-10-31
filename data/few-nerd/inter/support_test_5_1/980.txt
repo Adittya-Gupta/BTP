@@ -1,0 +1,65 @@
+it	O
+includes	O
+the	O
+safra	building-hospital
+children	building-hospital
+'s	building-hospital
+hospital	building-hospital
+and	O
+padeh	building-hospital
+geriatric	building-hospital
+rehabilitation	building-hospital
+center	building-hospital
+.	O
+
+grey	product-car
+market	O
+imports	O
+continued	O
+,	O
+mainly	O
+the	O
+niva	product-car
+.	O
+
+it	O
+was	O
+manufactured	O
+by	O
+intamin	organization-government/governmentagency
+and	O
+opened	O
+as	O
+the	O
+world	O
+'s	O
+tallest	O
+and	O
+fastest	O
+free-fall	O
+ride	O
+.	O
+
+exist	O
+,	O
+such	O
+as	O
+the	O
+master	other-educationaldegree
+of	other-educationaldegree
+legal	other-educationaldegree
+practice	other-educationaldegree
+(	O
+m.l.p	other-educationaldegree
+.	other-educationaldegree
+)	O
+
+the	O
+video	O
+also	O
+stars	O
+actress	O
+rachel	person-actor
+miner	person-actor
+.	O
+

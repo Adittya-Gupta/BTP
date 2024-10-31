@@ -1,0 +1,66 @@
+opioid	other-medical
+medications	other-medical
+are	O
+not	O
+utilized	O
+to	O
+treat	O
+etth	other-medical
+.	O
+
+he	O
+was	O
+called	O
+up	O
+to	O
+the	O
+majors	O
+after	O
+an	O
+injury	O
+to	O
+jered	person-athlete
+weaver	person-athlete
+.	O
+
+the	O
+film	O
+was	O
+doris	person-actor
+day	person-actor
+'s	O
+last	O
+screen	O
+musical	O
+.	O
+
+it	O
+is	O
+where	O
+the	O
+hunter	location-bodiesofwater
+river	location-bodiesofwater
+separates	O
+into	O
+its	O
+north	O
+and	O
+south	O
+channels	O
+.	O
+
+he	O
+headed	O
+the	O
+board	O
+of	O
+the	O
+washington	building-hospital
+hospital	building-hospital
+center	building-hospital
+from	O
+1959	O
+to	O
+1961	O
+.	O
+

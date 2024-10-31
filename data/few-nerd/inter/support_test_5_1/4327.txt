@@ -1,0 +1,61 @@
+honma	O
+beat	O
+naoki	person-athlete
+sano	person-athlete
+by	O
+tko	person-athlete
+.	O
+
+later	O
+this	O
+same	O
+year	O
+,	O
+``	O
+combinación	art-music
+perfecta	art-music
+``	O
+was	O
+released	O
+.	O
+
+so	O
+far	O
+the	O
+healeys	product-car
+had	O
+all	O
+been	O
+expensive	O
+.	O
+
+in	O
+1946	O
+when	O
+the	O
+chemung	location-bodiesofwater
+river	location-bodiesofwater
+overflowed	O
+its	O
+banks	O
+,	O
+the	O
+theater	O
+was	O
+flooded	O
+causing	O
+extensive	O
+damage	O
+.	O
+
+)	O
+,	O
+and	O
+master	other-educationaldegree
+of	other-educationaldegree
+sacred	other-educationaldegree
+theology	other-educationaldegree
+(	O
+s.t.m	O
+.	O
+

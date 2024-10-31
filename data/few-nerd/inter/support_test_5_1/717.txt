@@ -1,0 +1,53 @@
+matt	person-athlete
+kenseth	person-athlete
+won	O
+the	O
+pole	O
+.	O
+
+oysters	other-livingthing
+and	O
+shellfish	other-livingthing
+are	O
+a	O
+major	O
+aspect	O
+of	O
+what	O
+the	O
+restaurant	O
+offers	O
+.	O
+
+his	O
+video	O
+``	O
+ishq	art-music
+``	O
+features	O
+model	O
+and	O
+actress	O
+koena	person-actor
+mitra	person-actor
+and	O
+``	O
+pyar	art-music
+ho	art-music
+gaya	art-music
+``	O
+features	O
+actor	O
+shiny	person-actor
+ahuja	person-actor
+.	O
+
+and	O
+master	other-educationaldegree
+of	other-educationaldegree
+laws	other-educationaldegree
+(	O
+ll.m	other-educationaldegree
+.	other-educationaldegree
+)	O
+

@@ -1,0 +1,65 @@
+the	O
+school	O
+offers	O
+a	O
+first	O
+degree	other-educationaldegree
+in	other-educationaldegree
+law	other-educationaldegree
+(	O
+j.d	other-educationaldegree
+.	other-educationaldegree
+)	O
+
+like	O
+villarrica	location-bodiesofwater
+lake	location-bodiesofwater
+,	O
+it	O
+is	O
+part	O
+of	O
+toltén	location-bodiesofwater
+river	location-bodiesofwater
+basin	O
+.	O
+
+in	O
+1893	O
+,	O
+the	O
+independent	organization-politicalparty
+labour	organization-politicalparty
+party	organization-politicalparty
+(	O
+ilp	organization-politicalparty
+)	O
+was	O
+established	O
+.	O
+
+the	O
+new	event-election
+york	event-election
+state	event-election
+election	event-election
+,	O
+1870	O
+was	O
+held	O
+on	O
+november	O
+8	O
+.	O
+
+it	O
+premiered	O
+at	O
+the	O
+sydney	building-theater
+opera	building-theater
+house	building-theater
+in	O
+2002	O
+.	O
+

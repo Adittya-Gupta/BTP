@@ -1,0 +1,66 @@
+lake	location-bodiesofwater
+austin	location-bodiesofwater
+is	O
+maintained	O
+as	O
+a	O
+constant-level	O
+lake	O
+by	O
+releases	O
+of	O
+water	O
+from	O
+lake	location-bodiesofwater
+travis	location-bodiesofwater
+upstream	O
+.	O
+
+rojcewicz	person-actor
+averaged	O
+7.7	O
+points	O
+per	O
+game	O
+.	O
+
+he	O
+received	O
+the	O
+rank	O
+of	O
+master	other-educationaldegree
+of	other-educationaldegree
+law	other-educationaldegree
+in	O
+1940	O
+.	O
+
+for	O
+an	O
+explanation	O
+of	O
+the	O
+u.s.	event-election
+presidential	event-election
+election	event-election
+process	O
+see	O
+u.s	O
+.	O
+
+he	O
+was	O
+taken	O
+to	O
+dunedin	building-hospital
+public	building-hospital
+hospital	building-hospital
+suffering	O
+burns	O
+,	O
+and	O
+required	O
+surgery	O
+.	O
+

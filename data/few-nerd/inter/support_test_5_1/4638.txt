@@ -1,0 +1,56 @@
+graham	location-bodiesofwater
+creek	location-bodiesofwater
+meanders	O
+through	O
+the	O
+neighbourhood	O
+.	O
+
+16	O
+,	O
+bernie	person-athlete
+federko	person-athlete
+'s	O
+no	O
+.	O
+
+the	O
+sherman	product-weapon
+was	O
+a	O
+relatively	O
+inexpensive	O
+,	O
+easy	O
+to	O
+maintain	O
+and	O
+produce	O
+combat	O
+system	O
+.	O
+
+see	O
+the	O
+latest	O
+package	O
+insert	O
+for	O
+ofloxacin	other-medical
+for	O
+additional	O
+details	O
+.	O
+
+he	O
+received	O
+the	O
+rank	O
+of	O
+master	other-educationaldegree
+of	other-educationaldegree
+law	other-educationaldegree
+in	O
+1940	O
+.	O
+

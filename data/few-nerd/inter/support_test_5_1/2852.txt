@@ -1,0 +1,67 @@
+the	O
+3rd	event-election
+andhrapradesh	event-election
+legislative	event-election
+assembly	event-election
+election	event-election
+was	O
+held	O
+in	O
+1962	O
+.	O
+
+ranitidine	other-medical
+has	O
+been	O
+shown	O
+to	O
+reduce	O
+ulceration	O
+when	O
+given	O
+concurrently	O
+during	O
+feed	O
+deprivation	O
+trials	O
+.	O
+
+light	O
+tanks	O
+in	O
+tank	O
+regiments	O
+were	O
+being	O
+replaced	O
+by	O
+t-34	product-weapon
+medium	O
+tanks	O
+.	O
+
+the	O
+southern	location-other
+patagonian	location-other
+ice	location-other
+field	location-other
+takes	O
+up	O
+the	O
+entire	O
+western	O
+side	O
+of	O
+the	O
+park	O
+.	O
+
+located	O
+here	O
+is	O
+the	O
+great	other-livingthing
+banyan	other-livingthing
+tree	other-livingthing
+.	O
+

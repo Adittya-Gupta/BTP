@@ -1,0 +1,112 @@
+before	O
+the	O
+single	O
+release	O
+the	O
+song	O
+appeared	O
+in	O
+the	O
+soundtrack	O
+of	O
+the	O
+videogame	O
+fifa	CreativeWorks-Software
+166	CreativeWorks-Software
+.	O
+
+before	O
+the	O
+single	O
+release	O
+the	O
+song	O
+appeared	O
+in	O
+the	O
+soundtrack	O
+of	O
+the	O
+videogame	O
+fifa	CreativeWorks-Software
+166	CreativeWorks-Software
+.	O
+
+isoprenaline	Medical-Medication/Vaccine
+(	O
+isuprel	O
+)	O
+for	O
+treatment	O
+of	O
+mild	O
+or	O
+transient	O
+episodes	O
+of	O
+heart	O
+block	O
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+

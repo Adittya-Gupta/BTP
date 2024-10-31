@@ -1,0 +1,65 @@
+sweden	organization-government/governmentagency
+and	O
+the	O
+dutch	organization-government/governmentagency
+republic	organization-government/governmentagency
+assured	O
+mutual	O
+friendship	O
+.	O
+
+it	O
+is	O
+a	O
+part	O
+of	O
+the	O
+book	art-writtenart
+of	art-writtenart
+the	art-writtenart
+twelve	art-writtenart
+minor	art-writtenart
+prophets	art-writtenart
+.	O
+
+the	O
+regionally-based	O
+direct	O
+action	O
+squads	O
+operated	O
+within	O
+,	O
+but	O
+also	O
+considerably	O
+beyond	O
+,	O
+the	O
+anl	organization-politicalparty
+.	O
+
+pat	person-actor
+hingle	person-actor
+and	O
+a	O
+young	O
+graham	person-actor
+greene	person-actor
+also	O
+star	O
+.	O
+
+)	O
+,	O
+and	O
+the	O
+doctor	other-educationaldegree
+of	other-educationaldegree
+philosophy	other-educationaldegree
+(	other-educationaldegree
+ph.d	other-educationaldegree
+.	other-educationaldegree
+)	other-educationaldegree
+.	O
+

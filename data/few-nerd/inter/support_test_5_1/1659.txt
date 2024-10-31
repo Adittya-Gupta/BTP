@@ -1,0 +1,56 @@
+he	O
+competed	O
+with	O
+carole	person-actor
+macsween	person-actor
+.	O
+
+these	O
+are	O
+'	O
+,	O
+'	O
+and	O
+``	O
+the	O
+art	art-writtenart
+of	art-writtenart
+bioshock	art-writtenart
+infinite	art-writtenart
+``	O
+.	O
+
+he	O
+then	O
+became	O
+physician	O
+at	O
+the	O
+edinburgh	building-hospital
+royal	building-hospital
+infirmary	building-hospital
+then	O
+consulting	O
+physician	O
+at	O
+the	O
+deaconess	building-hospital
+hospital	building-hospital
+.	O
+
+and	O
+master	other-educationaldegree
+of	other-educationaldegree
+laws	other-educationaldegree
+(	O
+ll.m	other-educationaldegree
+.	other-educationaldegree
+)	O
+
+(	O
+it	event-election
+'s	event-election
+time	event-election
+!	O
+)	O
+

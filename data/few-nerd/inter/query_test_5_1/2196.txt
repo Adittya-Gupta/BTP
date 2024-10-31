@@ -1,0 +1,59 @@
+seabirds	O
+such	O
+as	O
+gulls	other-livingthing
+are	O
+not	O
+generally	O
+seen	O
+.	O
+
+in	O
+february	O
+2010	O
+the	O
+band	O
+released	O
+an	O
+album	O
+entitled	O
+``	O
+the	art-music
+underworld	art-music
+regime	art-music
+``	O
+.	O
+
+in	O
+1974	O
+to	O
+1979	O
+,	O
+she	O
+sang	O
+at	O
+the	O
+deutsche	building-theater
+oper	building-theater
+am	building-theater
+rhein	building-theater
+.	O
+
+therefore	O
+,	O
+pakatan	organization-politicalparty
+rakyat	organization-politicalparty
+vows	O
+to	O
+:	O
+
+the	O
+club	O
+competes	O
+in	O
+the	O
+glo	event-sportsevent
+premier	event-sportsevent
+league	event-sportsevent
+.	O
+

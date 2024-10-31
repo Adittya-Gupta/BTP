@@ -1,0 +1,67 @@
+it	O
+has	O
+sailed	O
+westwards	O
+to	O
+the	O
+eastern	location-bodiesofwater
+mediterranean	location-bodiesofwater
+.	O
+
+canada	other-livingthing
+geese	other-livingthing
+are	O
+known	O
+for	O
+their	O
+seasonal	O
+migrations	O
+.	O
+
+the	O
+hospital	O
+was	O
+then	O
+renamed	O
+'	O
+st	building-hospital
+thomas	building-hospital
+'s	building-hospital
+cornwall	building-hospital
+babies	building-hospital
+'	O
+hostel	O
+.	O
+
+``	O
+astronomy	art-writtenart
+``	O
+may	O
+include	O
+special	O
+sections	O
+bound	O
+into	O
+the	O
+magazine	O
+,	O
+such	O
+as	O
+booklets	O
+or	O
+posters	O
+.	O
+
+stage	O
+rights	O
+were	O
+also	O
+optioned	O
+by	O
+the	O
+aldwych	building-theater
+theatre	building-theater
+in	O
+london	building-theater
+.	O
+

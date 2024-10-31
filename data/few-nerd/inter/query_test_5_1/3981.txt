@@ -1,0 +1,74 @@
+clemente	person-athlete
+'s	O
+widow	O
+,	O
+vera	person-athlete
+,	O
+accepted	O
+the	O
+award	O
+.	O
+
+terrified	O
+of	O
+other	O
+inmates	O
+,	O
+he	O
+was	O
+sent	O
+to	O
+the	O
+psychiatric	O
+ward	O
+of	O
+bellevue	building-hospital
+hospital	building-hospital
+center	building-hospital
+and	O
+later	O
+released	O
+.	O
+
+†seat	event-election
+change	O
+has	O
+been	O
+adjusted	O
+to	O
+allow	O
+for	O
+direct	O
+comparison	O
+with	O
+the	O
+results	O
+from	O
+the	O
+2004	O
+election	O
+
+it	O
+was	O
+later	O
+designated	O
+the	O
+``	O
+state	building-theater
+theater	building-theater
+of	building-theater
+kentucky	building-theater
+``	O
+in	O
+1974	O
+.	O
+
+)	O
+,	O
+bachelor	other-educationaldegree
+of	other-educationaldegree
+literature	other-educationaldegree
+(	O
+litt	O
+.	O
+

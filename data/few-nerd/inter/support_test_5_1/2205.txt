@@ -1,0 +1,61 @@
+the	O
+proton	product-car
+saga	product-car
+saloon	O
+was	O
+launched	O
+on	O
+9	O
+july	O
+1985	O
+.	O
+
+their	O
+only	O
+appearance	O
+in	O
+first-class	event-sportsevent
+cricket	event-sportsevent
+ended	O
+as	O
+a	O
+draw	O
+.	O
+
+in	O
+2006	O
+he	O
+took	O
+his	O
+master	other-educationaldegree
+'s	other-educationaldegree
+degree	other-educationaldegree
+in	other-educationaldegree
+political	other-educationaldegree
+science	other-educationaldegree
+.	O
+
+its	O
+collapse	O
+formed	O
+a	O
+caldera	O
+that	O
+holds	O
+crater	location-bodiesofwater
+lake	location-bodiesofwater
+.	O
+
+the	O
+2004	event-election
+presidential	event-election
+election	event-election
+were	O
+carried	O
+out	O
+on	O
+4	O
+january	O
+2004	O
+.	O
+

@@ -1,0 +1,61 @@
+before	O
+the	O
+single	O
+release	O
+the	O
+song	O
+appeared	O
+in	O
+the	O
+soundtrack	O
+of	O
+the	O
+videogame	O
+fifa	CreativeWorks-Software
+166	CreativeWorks-Software
+.	O
+
+cannon	Location-Station
+street	Location-Station
+station	Location-Station
+was	O
+built	O
+on	O
+the	O
+site	O
+and	O
+opened	O
+in	O
+1866	O
+.	O
+
+vienna	Location-HumanSettlement
+ljubljana	Location-HumanSettlement
+ptuj	Location-HumanSettlement
+bled	Location-HumanSettlement
+postojna	Location-Facility
+cave	Location-Facility
+piran	Location-HumanSettlement
+koper	Location-HumanSettlement
+graz	Location-HumanSettlement
+
+vienna	Location-HumanSettlement
+ljubljana	Location-HumanSettlement
+ptuj	Location-HumanSettlement
+bled	Location-HumanSettlement
+postojna	Location-Facility
+cave	Location-Facility
+piran	Location-HumanSettlement
+koper	Location-HumanSettlement
+graz	Location-HumanSettlement
+
+vienna	Location-HumanSettlement
+ljubljana	Location-HumanSettlement
+ptuj	Location-HumanSettlement
+bled	Location-HumanSettlement
+postojna	Location-Facility
+cave	Location-Facility
+piran	Location-HumanSettlement
+koper	Location-HumanSettlement
+graz	Location-HumanSettlement
+

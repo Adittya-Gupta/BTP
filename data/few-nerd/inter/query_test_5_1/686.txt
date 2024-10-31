@@ -1,0 +1,67 @@
+it	O
+premiered	O
+at	O
+the	building-theater
+martin	building-theater
+beck	building-theater
+theater	building-theater
+in	O
+march	O
+1934	O
+.	O
+
+discordia	other-livingthing
+evulsa	other-livingthing
+is	O
+a	O
+species	O
+of	O
+snout	O
+moth	O
+in	O
+the	O
+genus	O
+``	O
+discordia	O
+''	O
+.	O
+
+small	O
+,	O
+asymptomatic	O
+nodules	other-medical
+are	O
+common	O
+,	O
+and	O
+often	O
+go	O
+unnoticed	O
+.	O
+
+radha	person-actor
+has	O
+become	O
+a	O
+well	O
+known	O
+actress	O
+.	O
+
+the	O
+status	O
+of	O
+the	O
+little	O
+tern	O
+on	O
+the	O
+rivers	O
+tagus	location-bodiesofwater
+and	O
+lower	O
+danube	location-bodiesofwater
+is	O
+uncertain	O
+.	O
+

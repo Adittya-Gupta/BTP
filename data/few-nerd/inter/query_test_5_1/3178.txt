@@ -1,0 +1,57 @@
+he	O
+did	O
+not	O
+defend	O
+his	O
+seat	O
+at	O
+the	O
+1935	event-election
+general	event-election
+election	event-election
+.	O
+
+february	O
+27	O
+,	O
+jintae	person-athlete
+joins	O
+.	O
+
+``	O
+flat	art-music
+chat	art-music
+``	O
+peaked	O
+at	O
+no	O
+.	O
+
+armament	O
+was	O
+a	O
+single	O
+0.303	O
+inch	O
+(	O
+7.7	O
+mm	O
+)	O
+vickers	product-weapon
+machine	product-weapon
+gun	product-weapon
+synchronized	O
+with	O
+the	O
+sopwith-kauper	product-weapon
+synchronizer	product-weapon
+.	O
+
+the	O
+warehouse	building-theater
+theatre	building-theater
+opened	O
+in	O
+1977	O
+.	O
+

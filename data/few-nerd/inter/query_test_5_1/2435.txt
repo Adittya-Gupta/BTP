@@ -1,0 +1,76 @@
+donaire	person-athlete
+knocked	O
+mathebula	person-athlete
+down	O
+in	O
+round	O
+four	O
+,	O
+breaking	O
+his	O
+jaw	O
+in	O
+two	O
+places	O
+.	O
+
+also	O
+,	O
+four	O
+40	O
+mm	O
+bofors	product-weapon
+gun	O
+batteries	O
+were	O
+placed	O
+around	O
+the	O
+fort	O
+.	O
+
+from	O
+1954	O
+,	O
+she	O
+became	O
+a	O
+guest	O
+singer	O
+at	O
+the	O
+vienna	building-theater
+state	building-theater
+opera	building-theater
+.	O
+
+he	O
+missed	O
+the	O
+asian	event-sportsevent
+leg	event-sportsevent
+due	O
+to	O
+a	O
+wrist	O
+injury	O
+.	O
+
+†seat	event-election
+change	O
+has	O
+been	O
+adjusted	O
+to	O
+allow	O
+for	O
+direct	O
+comparison	O
+with	O
+the	O
+results	O
+from	O
+the	O
+2004	O
+election	O
+

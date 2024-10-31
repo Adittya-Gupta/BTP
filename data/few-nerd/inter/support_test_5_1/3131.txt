@@ -1,0 +1,58 @@
+sorbus	other-livingthing
+parumlobata	other-livingthing
+is	O
+a	O
+species	O
+of	O
+plant	O
+in	O
+the	O
+family	O
+rosaceae	O
+.	O
+
+she	O
+trained	O
+as	O
+a	O
+nurse	O
+at	O
+bellevue	building-hospital
+hospital	building-hospital
+in	building-hospital
+new	building-hospital
+york	building-hospital
+,	O
+completing	O
+her	O
+studies	O
+in	O
+1905	O
+.	O
+
+2839	O
+with	O
+a	O
+1912	product-car
+pullman	product-car
+private	product-car
+car	product-car
+.	O
+
+the	O
+result	O
+was	O
+``	O
+communicate	art-music
+!	O
+
+it	O
+was	O
+abolished	O
+for	O
+the	event-election
+1950	event-election
+general	event-election
+election	event-election
+.	O
+

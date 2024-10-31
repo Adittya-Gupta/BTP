@@ -1,0 +1,45 @@
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+
+green	Group-MusicalGRP
+day	Group-MusicalGRP
+american	CreativeWorks-MusicalWork
+idiot	CreativeWorks-MusicalWork
+boulevard	CreativeWorks-MusicalWork
+of	CreativeWorks-MusicalWork
+broken	CreativeWorks-MusicalWork
+dreams	CreativeWorks-MusicalWork
+

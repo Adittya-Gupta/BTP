@@ -1,0 +1,50 @@
+after	O
+the	O
+center	O
+jump	O
+,	O
+steinmetz	person-athlete
+joined	O
+zuppke	person-athlete
+at	O
+the	O
+forward	O
+spot	O
+.	O
+
+the	O
+russian	organization-government/governmentagency
+government	organization-government/governmentagency
+vaccinated	O
+around	O
+half	O
+a	O
+million	O
+reindeer	other-livingthing
+against	O
+anthrax	O
+in	O
+2015	O
+.	O
+
+they	O
+have	O
+shown	O
+excellent	O
+antiangiogenic	O
+results	O
+in	O
+the	O
+laboratory	location-other
+.	O
+
+)	O
+,	O
+master	other-educationaldegree
+of	other-educationaldegree
+theological	other-educationaldegree
+studies	other-educationaldegree
+(	O
+m.t.s	O
+.	O
+

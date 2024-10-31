@@ -1,0 +1,59 @@
+acetazolamide	other-medical
+also	O
+helps	O
+prevent	O
+the	O
+condition	O
+.	O
+
+however	O
+,	O
+the	O
+chihuahua	other-livingthing
+and	O
+miniature	other-livingthing
+dachshund	other-livingthing
+were	O
+more	O
+aggressive	O
+and	O
+more	O
+likely	O
+to	O
+chase	O
+others	O
+.	O
+
+today	O
+,	O
+the	O
+mississippi	location-bodiesofwater
+river	location-bodiesofwater
+gorge	location-bodiesofwater
+is	O
+a	O
+protected	O
+natural	O
+landscape	O
+.	O
+
+memorial	location-other
+union	location-other
+houses	O
+several	O
+restaurants	O
+and	O
+cafeterias	O
+.	O
+
+the	O
+lyrics	O
+are	O
+``	O
+sun	art-music
+sun	art-music
+kasam	art-music
+se	art-music
+``	O
+.	O
+

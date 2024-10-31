@@ -1,0 +1,63 @@
+the	O
+race	O
+served	O
+as	O
+the	O
+10th	O
+round	O
+of	O
+the	O
+2018	O
+indycar	product-car
+series	O
+season	O
+.	O
+
+in	O
+1938-39	O
+season	O
+they	O
+won	O
+the	O
+cup	O
+for	O
+the	O
+first	O
+time	O
+beating	O
+toulouse	event-sportsevent
+olympique	event-sportsevent
+at	O
+their	O
+own	O
+ground	O
+7-3	O
+.	O
+
+the	O
+den	location-bodiesofwater
+brook	location-bodiesofwater
+started	O
+flooding	O
+the	O
+cleared	O
+land	O
+.	O
+
+duke	building-hospital
+regional	building-hospital
+hospital	building-hospital
+and	O
+duke	building-hospital
+university	building-hospital
+hospital	building-hospital
+each	O
+received	O
+5	O
+patients	O
+.	O
+
+ouendan	art-writtenart
+2	art-writtenart
+.	O
+

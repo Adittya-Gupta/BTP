@@ -1,0 +1,67 @@
+in	O
+addition	O
+to	O
+towed	O
+howitzers	product-weapon
+,	O
+plant	O
+no	O
+.	O
+
+the	O
+cape	O
+protects	O
+drakes	location-bodiesofwater
+bay	location-bodiesofwater
+on	O
+its	O
+southern	O
+side	O
+.	O
+
+colton	person-actor
+ford	person-actor
+appeared	O
+in	O
+a	O
+dozen	O
+gay	O
+adult	O
+celebrated	O
+films	O
+.	O
+
+he	O
+is	O
+currently	O
+a	O
+council	O
+member	O
+of	O
+estonian	organization-politicalparty
+centre	organization-politicalparty
+party	organization-politicalparty
+and	O
+a	O
+deputy	O
+head	O
+of	O
+the	O
+organizations	O
+branch	O
+at	O
+nõmme	organization-politicalparty
+.	O
+
+he	O
+was	O
+physician	O
+to	O
+royal	building-hospital
+brompton	building-hospital
+hospital	building-hospital
+for	O
+twenty	O
+years	O
+.	O
+

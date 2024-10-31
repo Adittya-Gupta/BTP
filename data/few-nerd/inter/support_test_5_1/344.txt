@@ -1,0 +1,64 @@
+the	O
+biebrza	location-bodiesofwater
+marshes	location-bodiesofwater
+are	O
+the	O
+most	O
+precious	O
+part	O
+of	O
+the	O
+park	O
+.	O
+
+this	O
+gives	O
+evidence	O
+that	O
+chimpanzee	other-livingthing
+calls	O
+are	O
+learned	O
+rather	O
+than	O
+genetically	O
+inherited	O
+.	O
+
+the	O
+film	O
+is	O
+also	O
+notable	O
+for	O
+featuring	O
+one	O
+of	O
+the	O
+last	O
+roles	O
+of	O
+isaac	person-actor
+hayes	person-actor
+.	O
+
+the	O
+lpi	product-car
+hybrid	product-car
+delivered	O
+.	O
+
+the	O
+new	event-election
+york	event-election
+state	event-election
+election	event-election
+,	O
+1866	O
+was	O
+held	O
+on	O
+november	O
+6	O
+.	O
+

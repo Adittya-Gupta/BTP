@@ -1,0 +1,61 @@
+smart	O
+bombs	O
+include	O
+the	O
+gps-guided	O
+jdam	product-weapon
+and	O
+the	O
+laser-guided	O
+paveway	product-weapon
+series	O
+.	O
+
+epinephrine	other-medical
+is	O
+the	O
+drug	O
+of	O
+choice	O
+for	O
+treating	O
+anaphylaxis	O
+.	O
+
+she	O
+was	O
+engaged	O
+at	O
+the	O
+comédie-française	building-theater
+in	O
+1768	O
+.	O
+
+a	O
+red	other-livingthing
+deer	other-livingthing
+was	O
+also	O
+once	O
+sighted	O
+in	O
+the	O
+wood	O
+.	O
+
+he	O
+headed	O
+the	O
+board	O
+of	O
+the	O
+washington	building-hospital
+hospital	building-hospital
+center	building-hospital
+from	O
+1959	O
+to	O
+1961	O
+.	O
+

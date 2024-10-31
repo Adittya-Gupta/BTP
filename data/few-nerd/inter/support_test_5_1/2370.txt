@@ -1,0 +1,63 @@
+for	O
+the	O
+day	O
+,	O
+zisk	person-athlete
+had	O
+four	O
+hits	O
+in	O
+five	O
+at	O
+bats	O
+.	O
+
+she	O
+was	O
+buried	O
+at	O
+nearby	O
+mount	location-other
+hope	location-other
+cemetery	location-other
+in	O
+division	O
+5	O
+,	O
+section	O
+1	O
+.	O
+
+small	O
+,	O
+asymptomatic	O
+nodules	other-medical
+are	O
+common	O
+,	O
+and	O
+often	O
+go	O
+unnoticed	O
+.	O
+
+the	O
+harris	building-hospital
+county	building-hospital
+hospital	building-hospital
+district	building-hospital
+jeff	building-hospital
+davis	building-hospital
+hospital	building-hospital
+was	O
+adjacent	O
+to	O
+apv	O
+.	O
+
+graduate	O
+programs	O
+include	O
+m.a	other-educationaldegree
+.	O
+

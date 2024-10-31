@@ -1,0 +1,67 @@
+the	O
+film	O
+stars	O
+jaya	person-actor
+badhuri	person-actor
+and	O
+anil	person-actor
+dhawan	person-actor
+.	O
+
+the	O
+autoimmune	O
+role	O
+of	O
+anti-gm1	other-medical
+is	O
+still	O
+unclear	O
+.	O
+
+was	O
+given	O
+instead	O
+to	O
+quarterback	O
+trent	person-athlete
+dilfer	person-athlete
+.	O
+
+ben	building-hospital
+taub	building-hospital
+general	building-hospital
+hospital	building-hospital
+is	O
+a	O
+level	O
+i	O
+trauma	O
+center	O
+with	O
+650	O
+licensed	O
+beds	O
+.	O
+
+it	O
+was	O
+outfitted	O
+with	O
+armor	O
+plating	O
+and	O
+two	O
+guns	O
+:	O
+a	O
+32-pound	O
+parrott	product-weapon
+rifle	product-weapon
+and	O
+a	O
+42-pound	O
+banded	O
+rifle	O
+gun	O
+.	O
+

@@ -1,0 +1,65 @@
+they	O
+skated	O
+to	O
+the	O
+song	O
+``	O
+one	art-music
+moment	art-music
+in	art-music
+time	art-music
+``	O
+.	O
+
+one	O
+killer	other-livingthing
+whale	other-livingthing
+was	O
+also	O
+attacked	O
+by	O
+its	O
+companions	O
+after	O
+being	O
+shot	O
+.	O
+
+he	O
+was	O
+buried	O
+at	O
+russikon	location-other
+cemetery	location-other
+.	O
+
+the	O
+airline	O
+operates	O
+the	O
+route	O
+on	O
+a	O
+public	O
+service	O
+obligation	O
+contract	O
+with	O
+the	O
+ministry	organization-government/governmentagency
+of	organization-government/governmentagency
+transport	organization-government/governmentagency
+and	organization-government/governmentagency
+communications	organization-government/governmentagency
+.	O
+
+other	O
+programs	O
+include	O
+the	O
+executive	other-educationaldegree
+mba	other-educationaldegree
+and	O
+seminars	O
+.	O
+

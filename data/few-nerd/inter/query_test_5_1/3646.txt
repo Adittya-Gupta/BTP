@@ -1,0 +1,66 @@
+the	O
+clutha	location-bodiesofwater
+river	location-bodiesofwater
+is	O
+the	O
+swiftest	O
+river	O
+(	O
+per	O
+volume	O
+)	O
+in	O
+the	O
+southern	O
+hemisphere	O
+.	O
+
+thus	O
+,	O
+a	O
+depressed	O
+alpha	O
+angle	O
+could	O
+be	O
+treated	O
+with	O
+cryoprecipitate	other-medical
+.	O
+
+jakob	person-athlete
+lee	person-athlete
+scored	O
+the	O
+first	O
+goal	O
+in	O
+the	O
+new	O
+building	O
+at	O
+5:18	O
+of	O
+the	O
+1st	O
+period	O
+.	O
+
+the	O
+alliance	O
+was	O
+renamed	O
+open	organization-politicalparty
+vld	organization-politicalparty
+as	O
+of	O
+february	O
+2007	O
+.	O
+
+graduate	O
+programs	O
+include	O
+m.a	other-educationaldegree
+.	O
+

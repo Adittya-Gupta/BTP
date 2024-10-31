@@ -1,0 +1,63 @@
+thigpen	person-athlete
+competed	O
+with	O
+matt	person-athlete
+cassel	person-athlete
+for	O
+the	O
+starting	O
+quarterback	O
+position	O
+.	O
+
+other	O
+crops	O
+cultivated	O
+include	O
+:	O
+coconut	other-livingthing
+trees	other-livingthing
+and	O
+nutmeg	other-livingthing
+.	O
+
+unlike	O
+her	O
+experimental	O
+album	O
+``	O
+nunsexmonkrock	art-music
+``	O
+(	O
+1982	O
+)	O
+,	O
+``	O
+fearless	O
+''	O
+is	O
+a	O
+dance-pop	O
+album	O
+with	O
+influence	O
+of	O
+disco	O
+.	O
+
+(	O
+stuart	person-actor
+pankin	person-actor
+)	O
+.	O
+
+he	O
+received	O
+his	O
+doctor	other-educationaldegree
+of	other-educationaldegree
+jurisprudence	other-educationaldegree
+(	O
+j.d	O
+.	O
+

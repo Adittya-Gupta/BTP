@@ -1,0 +1,67 @@
+it	O
+premiered	O
+at	O
+the	building-theater
+martin	building-theater
+beck	building-theater
+theater	building-theater
+in	O
+march	O
+1934	O
+.	O
+
+piscedda	person-athlete
+dropped	O
+simone	person-athlete
+colombi	person-athlete
+(	O
+b	O
+.	O
+
+in	O
+1955	O
+,	O
+the	O
+area	O
+around	O
+lake	location-bodiesofwater
+atitlán	location-bodiesofwater
+became	O
+a	O
+national	O
+park	O
+.	O
+
+other	O
+reports	O
+of	O
+cannibalism	O
+have	O
+estimated	O
+as	O
+high	O
+as	O
+56	O
+%	O
+of	O
+the	O
+diet	O
+consists	O
+of	O
+juvenile	other-livingthing
+cod	other-livingthing
+.	O
+
+(	O
+green	art-music
+peas	art-music
+)	O
+,	O
+a	O
+song	O
+written	O
+for	O
+their	O
+fans	O
+.	O
+

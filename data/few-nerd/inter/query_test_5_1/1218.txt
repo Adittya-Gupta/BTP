@@ -1,0 +1,53 @@
+tatakae	art-writtenart
+!	O
+
+the	O
+same	O
+year	O
+,	O
+the	O
+theatre	O
+became	O
+the	O
+“	O
+théâtre	building-theater
+impérial	building-theater
+”	O
+.	O
+
+smart	O
+bombs	O
+include	O
+the	O
+gps-guided	O
+jdam	product-weapon
+and	O
+the	O
+laser-guided	O
+paveway	product-weapon
+series	O
+.	O
+
+(	O
+stuart	person-actor
+pankin	person-actor
+)	O
+.	O
+
+the	O
+hospital	O
+was	O
+built	O
+in	O
+1976	O
+and	O
+opened	O
+the	O
+following	O
+year	O
+as	O
+peninsula	building-hospital
+private	building-hospital
+hospital	building-hospital
+.	O
+
