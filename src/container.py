@@ -589,7 +589,7 @@ def main():
         )
 
     # Setup CUDA, GPU & distributed training
-    device = torch.device("cuda:" + str(args.select_gpu) if torch.cuda.is_available() and not args.no_cuda else "cpu")
+    device = torch.device("cuda:" if torch.cuda.is_available() and not args.no_cuda else "cpu")
     args.n_gpu = 0 if args.no_cuda else torch.cuda.device_count()
     args.n_gpu = min(1, args.n_gpu) # we are keeping ourselves restricted to only 1 gpu
 
